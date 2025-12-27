@@ -31,61 +31,61 @@ Engineering excellence is embedded through **Continuous Integration (CI)** and *
 
 By running on a quarterly cadence, EOS balances strategic planning with tactical agility—allowing teams to commit to meaningful goals while adapting to change.
 
-![eos-cycle](../images/eos-cycle.png)
+![eos-cycle](.gitbook/assets/eos-cycle.png)
 
 ## Beyond Engineering: Enterprise-Wide Applicability of EmergentOS
 
-Although EmergentOS was designed to optimize product delivery, its modular architecture, outcome-driven planning, and flow-based governance make it highly applicable across the broader enterprise. Functions such as **Finance, HR, Operations, Transformation, Risk, and Strategy** can benefit from its principles and practices—especially in environments where adaptability, learning, and measurable impact are essential.  
+Although EmergentOS was designed to optimize product delivery, its modular architecture, outcome-driven planning, and flow-based governance make it highly applicable across the broader enterprise. Functions such as **Finance, HR, Operations, Transformation, Risk, and Strategy** can benefit from its principles and practices—especially in environments where adaptability, learning, and measurable impact are essential.
 
-### Strategic Planning & Alignment  
+### Strategic Planning & Alignment
 
-- *Lean Value Trees (LVTs)* and *Strategic Outcome Mapping* help any department translate high-level goals into measurable outcomes.
-- *OKRs* provide clarity and focus, enabling teams to prioritize work that drives strategic value.
+* _Lean Value Trees (LVTs)_ and _Strategic Outcome Mapping_ help any department translate high-level goals into measurable outcomes.
+* _OKRs_ provide clarity and focus, enabling teams to prioritize work that drives strategic value.
 
-*Applicable to: Strategy, Transformation, Finance, HR*  
+_Applicable to: Strategy, Transformation, Finance, HR_
 
 ### Adaptive Budgeting & Investment
 
-- EmergentOS’s **adaptive funding model** replaces fixed annual budgets with quarterly, evidence-based investment decisions.
-- **Innovation accounting** supports funding for discovery, experimentation, and continuous improvement.
+* EmergentOS’s **adaptive funding model** replaces fixed annual budgets with quarterly, evidence-based investment decisions.
+* **Innovation accounting** supports funding for discovery, experimentation, and continuous improvement.
 
-*Applicable to: Finance, Portfolio Management, Transformation Offices* 
+_Applicable to: Finance, Portfolio Management, Transformation Offices_
 
 ### Flow-Based Governance & Visibility
 
-- **Portfolio Kanban** visualizes initiative flow across departments, enabling leaders to coach through flow rather than control through timelines.
-- **Flow Metrics** and telemetry provide real-time insight into progress and bottlenecks.
+* **Portfolio Kanban** visualizes initiative flow across departments, enabling leaders to coach through flow rather than control through timelines.
+* **Flow Metrics** and telemetry provide real-time insight into progress and bottlenecks.
 
-*Applicable to: Executive Leadership, Shared Services*  
+_Applicable to: Executive Leadership, Shared Services_
 
 ### Continuous Improvement & Capability Building
 
-- **Lean Kata** and **Flow Engineering** can be used by any team to identify blockers, run experiments, and improve how work flows.
-- Improvement work is tracked as OKRs and reviewed quarterly.
+* **Lean Kata** and **Flow Engineering** can be used by any team to identify blockers, run experiments, and improve how work flows.
+* Improvement work is tracked as OKRs and reviewed quarterly.
 
-*Applicable to: Operations, HR, Compliance, Customer Service*  
+_Applicable to: Operations, HR, Compliance, Customer Service_
 
 ## Coaching-Led Governance & Leadership Development
 
-- EmergentOS promotes **developmental governance**, where leaders act as coaches rather than controllers.
-- **Intent-Based Leadership** and coaching rituals support psychological safety, autonomy, and growth.
+* EmergentOS promotes **developmental governance**, where leaders act as coaches rather than controllers.
+* **Intent-Based Leadership** and coaching rituals support psychological safety, autonomy, and growth.
 
-*Applicable to: HR, Leadership Development, Culture & Change Teams*  
+_Applicable to: HR, Leadership Development, Culture & Change Teams_
 
 ## Organizational Design & Team Interaction
 
-- **Team Topologies** principles help structure teams across the enterprise to reduce cognitive load and improve collaboration.
-- Interaction modes (e.g. collaboration, X-as-a-service, facilitating) apply to both technical and non-technical teams.
+* **Team Topologies** principles help structure teams across the enterprise to reduce cognitive load and improve collaboration.
+* Interaction modes (e.g. collaboration, X-as-a-service, facilitating) apply to both technical and non-technical teams.
 
-*Applicable to: Org Design, Transformation, HR, Shared Services*  
+_Applicable to: Org Design, Transformation, HR, Shared Services_
 
-| Domain | EmergentOS Practices That Apply |
-| ----- | ----- |
-| Strategy & Planning | Lean Value Trees, OKRs, Strategic Outcome Mapping |
-| Finance & Budgeting | Adaptive Funding, Innovation Accounting, Portfolio Kanban |
-| HR & People Development | Coaching Culture, Team Topologies, Slowification |
-| Transformation & Change | Quarterly Cadence, Lean Kata, Flow Engineering |
-| Operations & Service | Flow Visualization, Continuous Improvement, Telemetry |
+| Domain                  | EmergentOS Practices That Apply                                    |
+| ----------------------- | ------------------------------------------------------------------ |
+| Strategy & Planning     | Lean Value Trees, OKRs, Strategic Outcome Mapping                  |
+| Finance & Budgeting     | Adaptive Funding, Innovation Accounting, Portfolio Kanban          |
+| HR & People Development | Coaching Culture, Team Topologies, Slowification                   |
+| Transformation & Change | Quarterly Cadence, Lean Kata, Flow Engineering                     |
+| Operations & Service    | Flow Visualization, Continuous Improvement, Telemetry              |
 | Leadership & Governance | Coaching-led governance, Intent-Based Leadership, Portfolio Kanban |
 
 ## Summary
