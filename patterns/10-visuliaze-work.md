@@ -1,4 +1,4 @@
-# Pattern: Visualize Work
+# Pattern: Work Visualization
 
 ## Context
 
@@ -10,10 +10,10 @@ Without visibility, teams lose focus and alignment. Bottlenecks go unnoticed; de
 
 ## Forces
 
-- Stakeholders want clarity and progress updates.
-- Teams need autonomy but fear being blindsided by hidden work.
-- Leaders want to manage risk without adding overhead.
-- Existing reporting systems are static and outdated.
+* Stakeholders want clarity and progress updates.
+* Teams need autonomy but fear being blindsided by hidden work.
+* Leaders want to manage risk without adding overhead.
+* Existing reporting systems are static and outdated.
 
 ## Solution
 
@@ -25,7 +25,7 @@ Transparency improves alignment and trust. Teams gain clarity on priorities and 
 
 ## Related Patterns
 
-- Flow First
-- Improve Collaboratively
-- Outcome Over Output
-- Coaching Culture
+* Flow First
+* Collaborative Improvement
+* Outcome Over Output
+* Coaching Culture

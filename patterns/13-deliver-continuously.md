@@ -1,4 +1,4 @@
-# Pattern: Deliver Continuously
+# Pattern: Continuous Delivery
 
 ## Context
 
@@ -10,17 +10,17 @@ Manual builds and deployments create bottlenecks and errors. Integration happens
 
 ## Forces
 
-- Stakeholders want speed without sacrificing stability.
-- Teams need confidence in their delivery pipeline.
-- Manual processes increase risk and slow feedback.
-- Pressure to release quickly can compromise quality.
+* Stakeholders want speed without sacrificing stability.
+* Teams need confidence in their delivery pipeline.
+* Manual processes increase risk and slow feedback.
+* Pressure to release quickly can compromise quality.
 
 ## Solution
 
 Adopt **Continuous Integration (CI)** and **Continuous Delivery (CD)** practices to automate and streamline delivery.
 
-- **CI**: Frequently integrate code into a shared trunk, run automated builds and tests to catch issues early.
-- **CD**: Automate deployments so every change is always in a deployable state. Use feature toggles, rollback mechanisms, and telemetry for safe experimentation.
+* **CI**: Frequently integrate code into a shared trunk, run automated builds and tests to catch issues early.
+* **CD**: Automate deployments so every change is always in a deployable state. Use feature toggles, rollback mechanisms, and telemetry for safe experimentation.
 
 Embed these practices into EmergentOS to enable iterative delivery, validated learning, and fast feedback loops.
 
@@ -30,7 +30,7 @@ Delivery becomes fast, safe, and predictable. Teams deploy small changes frequen
 
 ## Related Patterns
 
-- Flow First
-- Visualize Work
-- High Integrity Commitments
-- Improve Collaboratively
+* Flow First
+* Work Visualisation
+* High Integrity Commitments
+* Collaborative Improvement

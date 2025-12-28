@@ -1,4 +1,4 @@
-# Pattern: Legacy to Learning
+# Pattern: From Legacy Control to Learning Systems
 
 ## Context
 
@@ -10,10 +10,10 @@ Teams assume the work is deterministic and plan using fixed milestones. But lega
 
 ## Forces
 
-- Stakeholders expect certainty and parity.
-- Teams face hidden complexity and integration risks.
-- Legacy behaviour is often undocumented or misunderstood.
-- Pressure to deliver quickly undermines discovery and validation.
+* Stakeholders expect certainty and parity.
+* Teams face hidden complexity and integration risks.
+* Legacy behaviour is often undocumented or misunderstood.
+* Pressure to deliver quickly undermines discovery and validation.
 
 ## Solution
 
@@ -25,7 +25,7 @@ Migration becomes iterative, resilient, and outcome focused. Teams uncover hidde
 
 ## Related Patterns
 
-- Outcome Over Output
-- High Integrity Commitments
-- Time for Reflection
-- Big Picture
+* Outcome Over Output
+* High Integrity Commitments
+* Deliberate Time for Reflection
+* Big Picture

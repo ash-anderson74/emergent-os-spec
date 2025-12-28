@@ -10,18 +10,18 @@ Without a coaching mindset, leaders inadvertently stifle innovation and adaptabi
 
 ## Forces
 
-- Leaders feel pressure to provide predictability and maintain confidence across the organization.
-- Teams seek guidance and clarity but want to avoid micromanagement.
-- Existing cultural norms often emphasize authority and control over empowerment and autonomy.
-- Coaching capabilities are not yet widespread and require intentional development and support.
+* Leaders feel pressure to provide predictability and maintain confidence across the organization.
+* Teams seek guidance and clarity but want to avoid micromanagement.
+* Existing cultural norms often emphasize authority and control over empowerment and autonomy.
+* Coaching capabilities are not yet widespread and require intentional development and support.
 
 ## Solution
 
 Shift leadership from directing to coaching. Equip managers with playbooks and rituals that foster clarity, competence, and autonomy. Embed coaching into governance through OKR reviews, flow metrics discussions, and retrospectives. Leaders ask enabling questions like:
 
-- “What’s blocking flow?”
-- “Where do you need time to learn or improve?”
-- “How can I help remove obstacles?”
+* “What’s blocking flow?”
+* “Where do you need time to learn or improve?”
+* “How can I help remove obstacles?”
 
 Use **Intent-Based Leadership** principles: give control, increase competence, and ensure clarity. Make coaching a visible, measurable part of leadership responsibilities.
 
@@ -31,7 +31,7 @@ Teams feel trusted and supported. Leaders guide through data and dialogue, not d
 
 ## Related Patterns
 
-- Time for Reflection
-- Outcome Over Output
-- Improve Collaboratively
-- Big Picture
+* Deliberate Time for Reflection
+* Outcome Over Output
+* Collaborative Improvement
+* Big Picture

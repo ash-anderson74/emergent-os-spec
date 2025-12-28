@@ -1,4 +1,4 @@
-# Pattern: Measure What Matters
+# Pattern: Meaningful Measurement
 
 ## Context
 
@@ -10,18 +10,18 @@ Without meaningful metrics, improvement efforts are blind. Decisions are based o
 
 ## Forces
 
-- Stakeholders want proof of progress and ROI.
-- Teams need actionable insights, not arbitrary targets.
-- Traditional metrics (e.g., velocity, story points) do not correlate with business outcomes.
-- Fear of measurement being used punitively undermines trust.
+* Stakeholders want proof of progress and ROI.
+* Teams need actionable insights, not arbitrary targets.
+* Traditional metrics (e.g., velocity, story points) do not correlate with business outcomes.
+* Fear of measurement being used punitively undermines trust.
 
 ## Solution
 
 Adopt the **DORA 4 Key Metrics**—Deployment Frequency, Lead Time for Changes, Change Failure Rate, and Mean Time to Recovery—as the foundation for empirical governance. These metrics provide a balanced view of speed and stability. Use them to:
 
-- Track engineering health and delivery flow.
-- Guide coaching and improvement experiments.
-- Correlate technical practices (e.g., CI/CD, trunk-based development) with business outcomes. Review trends regularly, focusing on learning and improvement—not punishment.
+* Track engineering health and delivery flow.
+* Guide coaching and improvement experiments.
+* Correlate technical practices (e.g., CI/CD, trunk-based development) with business outcomes. Review trends regularly, focusing on learning and improvement—not punishment.
 
 ## Result
 
@@ -29,7 +29,7 @@ Teams gain clarity on what drives performance. Leadership makes evidence-based d
 
 ## Related Patterns
 
-- Deliver Continuously
-- Flow First
-- Improve Collaboratively
-- Visualize Work
+* Continuous Delivery
+* Flow First
+* Collaborative Improvement
+* Work Visualisation

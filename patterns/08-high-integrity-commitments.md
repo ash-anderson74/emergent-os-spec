@@ -10,10 +10,10 @@ Deterministic planning forces teams to commit before uncertainty is resolved. Th
 
 ## Forces
 
-- Stakeholders want certainty for high-priority initiatives.
-- Teams need time to validate feasibility and reduce risk.
-- Pressure to commit early undermines experimentation and learning.
-- Failure to deliver damages credibility and morale.
+* Stakeholders want certainty for high-priority initiatives.
+* Teams need time to validate feasibility and reduce risk.
+* Pressure to commit early undermines experimentation and learning.
+* Failure to deliver damages credibility and morale.
 
 ## Solution
 
@@ -25,6 +25,6 @@ Commitments become reliable and meaningful. Stakeholders gain confidence without
 
 ## Related Patterns
 
-- Outcome Over Output
-- Time for Reflection
-- Coaching Culture
+* Outcome Over Output
+* Deliberate Time for Reflection
+* Coaching Culture

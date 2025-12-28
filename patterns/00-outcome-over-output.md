@@ -10,11 +10,11 @@ Traditional delivery frameworks (such as SAFe® or waterfall) often prioritize s
 
 ## Forces
 
-- Stakeholders want visibility and certainty.
-- Teams crave autonomy and purpose.
-- Customers need solutions, not features.
-- Estimation is unreliable but still expected.
-- Change feels risky, but stagnation is worse.
+* Stakeholders want visibility and certainty.
+* Teams crave autonomy and purpose.
+* Customers need solutions, not features.
+* Estimation is unreliable but still expected.
+* Change feels risky, but stagnation is worse.
 
 ## Solution
 
@@ -26,6 +26,5 @@ Teams begin to own outcomes, not just tasks. Delivery becomes adaptive, not pred
 
 ## Related Patterns
 
-- Evangelist: Identify a champion to introduce the operating system.
-- Time for Reflection: Use quarterly cadence and retrospectives.
-- Big Picture: Use outcome mapping to align strategy.
+* Deliberate Time for Reflection
+* Big Picture

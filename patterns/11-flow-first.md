@@ -10,10 +10,10 @@ Traditional planning emphasizes scope and dates, not flow. Work starts before te
 
 ## Forces
 
-- Stakeholders want visibility and predictability.
-- Teams feel pressure to start more work to “look busy.”
-- Dependencies and handoffs slow progress.
-- Metrics often measure output, not flow health.
+* Stakeholders want visibility and predictability.
+* Teams feel pressure to start more work to “look busy.”
+* Dependencies and handoffs slow progress.
+* Metrics often measure output, not flow health.
 
 ## Solution
 
@@ -25,7 +25,7 @@ Work moves predictably and smoothly. Bottlenecks are surfaced and addressed earl
 
 ## Related Patterns
 
-- Visualize Work
-- Improve Collaboratively
-- Outcome Over Output
-- Coaching Culture
+* Work Visualisation
+* Collaborative Improvement
+* Outcome Over Output
+* Coaching Culture

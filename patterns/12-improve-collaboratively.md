@@ -1,4 +1,4 @@
-# Pattern: Improve Collaboratively
+# Pattern: Collaborative Improvement
 
 ## Context
 
@@ -10,10 +10,10 @@ Improvement is treated as an afterthought or a leadership mandate. Teams lack ow
 
 ## Forces
 
-- Delivery pressure competes with improvement work.
-- Teams fear that raising issues will lead to blame.
-- Leaders want measurable progress but lack visibility into systemic blockers.
-- Improvement feels disconnected from strategic goals.
+* Delivery pressure competes with improvement work.
+* Teams fear that raising issues will lead to blame.
+* Leaders want measurable progress but lack visibility into systemic blockers.
+* Improvement feels disconnected from strategic goals.
 
 ## Solution
 
@@ -25,7 +25,7 @@ Improvement becomes continuous, safe, and systemic. Teams experiment with small 
 
 ## Related Patterns
 
-- Visualize Work
-- Flow First
-- Coaching Culture
-- Time for Reflection
+* Work Visualisation
+* Flow First
+* Coaching Culture
+* Deliberate Time for Reflection
