@@ -1,4 +1,4 @@
-# Practice Playbook: Adaptive Funding & Metered Investment in EmergentOS
+# Playbook: Adaptive Funding
 
 ## Status
 
@@ -30,8 +30,7 @@ Funding is treated as a **dynamic decision**, not a one-time allocation.
 
 ***
 
->**Lineage note**  
->
+> **Lineage note**
 >
 > The concepts of metered funding and learning-driven investment draw from:
 >
@@ -45,7 +44,7 @@ Funding is treated as a **dynamic decision**, not a one-time allocation.
 > EmergentOS synthesizes these ideas and applies them under a **learning-first, flow-aware, non-deterministic operating model**.\
 > EOS explicitly rejects using funding as a delivery contract or performance control.
 >
-> [References](../../references/literature.md)
+> [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
 
 ***
 
@@ -160,7 +159,7 @@ These themes answer:
 * Bets are _not initiatives_
 * Bets are strategic experiments
 * Each bet assumes:\
-  &#xNAN;_&#x49;f we invest here, we expect to move the outcome in this direction_
+  \&#xNAN;_If we invest here, we expect to move the outcome in this direction_
 
 Each bet includes:
 
