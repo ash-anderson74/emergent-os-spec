@@ -8,6 +8,16 @@ EmergentOS treats autonomy not as a goal, but as a **system property that must b
 
 ---
 
+### A Note on Cross-Functional Product Teams
+
+Across the contemporary literature on product development, DevOps, and organizational design, a consistent pattern emerges: **small, empowered, cross-functional teams with clear end-to-end ownership** outperform functionally siloed structures in environments characterized by uncertainty, complexity, and rapid change.
+
+EmergentOS does not mandate a specific team topology. However, the constraints it defines—outcome ownership, fast feedback, reduced handoffs, learning before commitment, and local decision-making—strongly select for team structures that can satisfy them. In practice, this often converges on cross-functional product teams, because they minimize coordination overhead, shorten learning loops, and enable teams to sense and respond to evidence directly.
+
+Where organizations retain functional silos, those silos must still find ways to meet the same constraints. When they cannot, the limitation is structural rather than procedural. EmergentOS makes these tensions explicit, allowing team design to evolve as a consequence of learning and flow, rather than as an upfront reorganization mandate.
+
+---
+
 ## Why Autonomy Alone Is Not Enough
 
 Autonomy without structure often produces:
