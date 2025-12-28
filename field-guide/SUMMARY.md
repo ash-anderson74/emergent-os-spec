@@ -1,0 +1,17 @@
+# Table of contents
+
+* [From Patterns to an Operating System](README.md)
+* [Outcome-Oriented Strategy: From Intent to Evidence](01-outcome-oriented-strategy-from-intent-to-evidence.md)
+* [Funding and Investment as a Learning System](02-funding-and-investment-as-a-learning-system.md)
+* [Flow as a Diagnostic, Not a Target](03-flow-as-a-diagnostic-not-a-target.md)
+* [Teams, Autonomy, and Interaction Boundaries](04-teams-autonomy-and-interaction-boundaries.md)
+* [Improvement as Deliberate System Work](05-improvement-as-deliberate-system-work.md)
+* [Aspirational Outcomes vs High-Integrity Commitments](06-commitments-vs-aspirations.md)
+* [Practice Playbooks](practice-playbooks/README.md)
+  * [Practice Playbook: OKRs in EmergentOS](practice-playbooks/00-okrs-in-emergentos.md)
+  * [Practice Playbook: Continuous Discovery in EmergentOS](practice-playbooks/01-continuous-discovery-in-emergentos.md)
+  * [Practice Playbook: Lean Kata for System-Level Improvement in EmergentOS](practice-playbooks/02-lean-kata-for-system-level-improvement.md)
+  * [Practice Playbook: Flow Metrics as Diagnostic Instruments in EmergentOS](practice-playbooks/03-flow-metrics-as-diagnostic-instruments.md)
+  * [Practice Playbook: Adaptive Funding & Metered Investment in EmergentOS](practice-playbooks/04-adaptive-funding-and-metered-investment.md)
+  * [Practice Playbook: Strategic Alignment with Lean Value Trees, OKRs, and Portfolio Kanban in Emergent](practice-playbooks/05-strategic-alignment-with-lvts-okrs-and-portfolio-kanban.md)
+  * [Practice Playbook: The EmergentOS Quarterly Learning Cycle](practice-playbooks/99-the-emergentos-quarterly-learning-cycle.md)
