@@ -1,4 +1,4 @@
-# From Patterns to an Operating System
+# How EmergentOS works in practice
 
 EmergentOS did not begin as a framework.
 
