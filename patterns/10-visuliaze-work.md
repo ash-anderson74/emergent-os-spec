@@ -1,31 +1,58 @@
-# Pattern: Work Visualization
+# Maintaining the Big Picture
 
 ## Context
 
-Teams and leaders struggle to understand what is in progress, what is blocked, and what is next. Work is hidden in spreadsheets, status reports, or siloed tools. Conversations focus on deadlines rather than flow, and improvement opportunities remain invisible.
+Teams often struggle to understand how their work connects to broader organizational goals.
+
+Without shared context, effort fragments and alignment erodes.
 
 ## Problem
 
-Without visibility, teams lose focus and alignment. Bottlenecks go unnoticed; dependencies cause delays, and leadership resorts to micromanagement for control. Transparency is low; trust erodes, and predictability suffers.
+Lack of systemic visibility leads to:
+
+- disconnected priorities
+- duplicated effort
+- local optimization
+- difficulty explaining value
+- strategy becoming abstract and distant
+
+Teams execute without understanding why.
 
 ## Forces
 
-* Stakeholders want clarity and progress updates.
-* Teams need autonomy but fear being blindsided by hidden work.
-* Leaders want to manage risk without adding overhead.
-* Existing reporting systems are static and outdated.
+- Strategy is often communicated abstractly
+- Complexity increases with scale
+- Visibility tools focus on delivery, not intent
+- Leaders assume alignment exists
 
 ## Solution
 
-Make work visible using **Kanban boards** at both team and portfolio levels. Visualize discovery, delivery, and improvement tracks. Apply **WIP limits** to prevent overload and highlight flow health. Use **flow metrics** (cycle time, throughput, aging work) to guide conversations. Portfolio Kanban provides systemic visibility, enabling leaders to coach through flow—not control through timelines.
+Make strategic intent explicit and visible.
+
+This involves:
+
+- clarifying strategic outcomes
+- mapping how work contributes to them
+- visualizing hypotheses and dependencies
+- connecting team goals to system-level intent
+
+Alignment emerges through shared understanding, not enforcement.
 
 ## Result
 
-Transparency improves alignment and trust. Teams gain clarity on priorities and blockers. Leaders shift from enforcing deadlines to enabling flow. Conversations become evidence-based, focusing on outcomes and improvement rather than status reporting.
+- Teams see how their work matters
+- Prioritization becomes easier
+- Strategy becomes tangible
+- Adaptation preserves coherence
+
+## Trade-offs
+
+- Requires ongoing conversation
+- Visual models must evolve
+- Misalignment becomes visible sooner
 
 ## Related Patterns
 
-* Flow First
-* Collaborative Improvement
-* Outcome Over Output
-* Coaching Culture
+- Operate Around Outcomes
+- Visualize Work
+- Outcome Over Output

@@ -1,30 +1,60 @@
-# Pattern: High Integrity Commitments
+# High-Integrity Commitments
 
 ## Context
 
-Your organization needs confidence in delivery for critical outcomes, but traditional commitments are based on estimates and assumptions. Teams often overpromise and underdeliver, eroding trust and creating tension between stakeholders and delivery teams.
+Organizations require commitments for certain obligations—regulatory, legal, safety, or contractual.
+
+Yet commitments are often made before uncertainty is resolved.
 
 ## Problem
 
-Deterministic planning forces teams to commit before uncertainty is resolved. This leads to missed deadlines, compromised quality, and reactive firefighting. Stakeholders lose trust, and teams feel pressured to guess rather than learn.
+Commitments based on estimates rather than evidence lead to:
+
+- missed expectations
+- reactive firefighting
+- compromised quality
+- erosion of trust
+- fear-driven planning
+
+Certainty is assumed where none exists.
 
 ## Forces
 
-* Stakeholders want certainty for high-priority initiatives.
-* Teams need time to validate feasibility and reduce risk.
-* Pressure to commit early undermines experimentation and learning.
-* Failure to deliver damages credibility and morale.
+- Stakeholders demand assurance
+- Teams need time to reduce uncertainty
+- Early commitment feels decisive
+- Learning is perceived as delay
+- Failure damages credibility
 
 ## Solution
 
-Introduce **High Integrity Commitments** as a practice within EmergentOS. Teams make commitments only after **validated discovery** and **technical feasibility** checks. These commitments are tied to **outcomes**, not outputs, and are **supported by evidence from prototypes, spikes, and telemetry**. Leadership enables this by creating space for Slowification—time for practice and learning before execution.
+Make commitments **only after sufficient learning has occurred**.
+
+High-integrity commitments:
+
+- are outcome-based
+- are grounded in validated feasibility
+- reflect reduced uncertainty
+- constrain scope intentionally
+- acknowledge what adaptability is sacrificed
+
+Learning precedes commitment, not the other way around.
 
 ## Result
 
-Commitments become reliable and meaningful. Stakeholders gain confidence without sacrificing adaptability. Teams deliver with integrity, knowing they have validated assumptions and reduced uncertainty. Trust grows, and planning shifts from guesswork to evidence-based confidence.
+- Commitments become reliable
+- Risk is reduced earlier
+- Trust increases across the system
+- Planning shifts from guessing to evidence
+
+## Trade-offs
+
+- Delays commitment until confidence exists
+- Requires patience from leadership
+- Demands explicit learning investment
 
 ## Related Patterns
 
-* Outcome Over Output
-* Deliberate Time for Reflection
-* Coaching Culture
+- Outcome Over Output
+- Deliberate Time for Reflection
+- Commitments vs Aspirations

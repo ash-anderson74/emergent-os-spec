@@ -1,27 +1,57 @@
-# Pattern: Operate Around Outcomes
+# Operate Around Outcomes
 
 ## Context
 
-Your organization is structured around projects and feature roadmaps. Teams deliver outputs but struggle to demonstrate real customer impact. Leadership wants agility but relies on centralized planning and deterministic schedules.
+Organizations are commonly structured around projects, initiatives, or feature roadmaps.
+
+While this provides short-term coordination, it often obscures the relationship between work delivered and value realized.
 
 ## Problem
 
-Project-based models create silos, slow decision-making, and disconnect teams from customer value. Teams focus on shipping features rather than solving problems. Innovation suffers, and adaptability is low.
+Project-centric operating models:
+
+- prioritize delivery over impact
+- fragment ownership across handoffs
+- slow learning and adaptation
+- disconnect teams from customers
+- reinforce output-based success metrics
+
+Teams ship work, but value remains unproven.
 
 ## Forces
 
-- Stakeholders demand predictability and visibility.
-- Teams want autonomy and purpose.
-- Customers expect continuous improvement, not big-bang releases.
-- Traditional governance reinforces output-driven success metrics.
+- Leaders need visibility and alignment
+- Teams seek autonomy and purpose
+- Customers expect continuous improvement
+- Governance rewards predictability
+- Outcomes are harder to measure than outputs
 
 ## Solution
 
-Adopt the Product Operating Model as the foundation of EmergentOS. Organize teams around customer outcomes, not projects. Empower cross-functional, stream-aligned teams to own end-to-end slices of the customer journey. Replace feature roadmaps with OKRs tied to measurable impact. Embed continuous discovery and delivery practices so learning and adaptation become routine.
+Orient the organization around **outcomes rather than projects**.
+
+This means:
+
+- defining success as measurable change
+- organizing work around value streams
+- empowering teams to own outcomes end-to-end
+- replacing feature commitments with learning-driven goals
+- using evidence to guide prioritization
+
+Delivery becomes a means to learning, not a proxy for value.
 
 ## Result
 
-Teams become outcome-focused and empowered. Delivery accelerates through iterative cycles. Customer impact is validated continuously. Leadership shifts from directing tasks to enabling strategic clarity and coaching. The organization gains adaptability without losing alignment.
+- Teams focus on solving problems, not completing scopes
+- Learning accelerates
+- Customer impact becomes visible
+- Alignment improves without central control
+
+## Trade-offs
+
+- Requires comfort with ambiguity
+- Demands changes to governance expectations
+- Outcomes may emerge unevenly across teams
 
 ## Related Patterns
 

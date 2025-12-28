@@ -1,32 +1,58 @@
-# Pattern: Big Picture
+# Maintaining the Big Picture
 
 ## Context
 
-Organizations often struggle to connect day-to-day delivery work with strategic objectives. Teams focus on features or tasks without understanding how their efforts contribute to customer impact or business goals.
+Teams often struggle to understand how their work connects to broader organizational goals.
+
+Without shared context, effort fragments and alignment erodes.
 
 ## Problem
 
-Without a shared “big picture,” teams operate in silos. Strategic intent gets lost in translation, leading to misaligned priorities, wasted effort, and difficulty demonstrating value.
+Lack of systemic visibility leads to:
+
+- disconnected priorities
+- duplicated effort
+- local optimization
+- difficulty explaining value
+- strategy becoming abstract and distant
+
+Teams execute without understanding why.
+
+## Forces
+
+- Strategy is often communicated abstractly
+- Complexity increases with scale
+- Visibility tools focus on delivery, not intent
+- Leaders assume alignment exists
 
 ## Solution
 
-Use **Strategic Outcome Mapping** and **Lean Value Trees (LVTs)** to create a visual, collaborative representation of how strategic goals cascade into measurable outcomes and team-level objectives.
+Make strategic intent explicit and visible.
 
-This mapping clarifies:
+This involves:
 
-- **Why the work matters** (strategic intent)
-- **What problems are worth solving** (customer and business outcomes)
-- **How initiatives and experiments connect to those outcomes**
+- clarifying strategic outcomes
+- mapping how work contributes to them
+- visualizing hypotheses and dependencies
+- connecting team goals to system-level intent
 
-### Lean Value Trees provide the strategic hierarchy
-
-- Strategic Themes → Bets → Value Streams → Initiatives → OKRs
-
-Prioritized initiatives from LVTs then move into Portfolio Kanban, which visualizes flow across stages and enables leaders to coach through flow—not control through timelines.
-Outcome Mapping and LVT sessions typically occur during the **Slowification window (Weeks 1–2)** and feed directly into OKR planning and Portfolio Kanban setup.
+Alignment emerges through shared understanding, not enforcement.
 
 ## Result
 
-Teams gain clarity on the big picture, align their OKRs with strategic outcomes, and prioritize work that delivers measurable impact. Leadership shifts from prescribing features to enabling **hypothesis-driven, outcome-focused decisions**.
+- Teams see how their work matters
+- Prioritization becomes easier
+- Strategy becomes tangible
+- Adaptation preserves coherence
 
-Portfolio Kanban ensures systemic visibility and adaptability, while LVTs maintain strategic coherence across the portfolio.
+## Trade-offs
+
+- Requires ongoing conversation
+- Visual models must evolve
+- Misalignment becomes visible sooner
+
+## Related Patterns
+
+- Operate Around Outcomes
+- Visualize Work
+- Outcome Over Output

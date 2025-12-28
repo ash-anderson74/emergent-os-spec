@@ -1,30 +1,62 @@
-# Pattern: Outcome Over Output
+# Outcome Over Output
 
 ## Context
 
-Your organization is operating within a delivery model that emphasizes predictability, feature completion, and detailed planning. While this approach has provided structure, it may limit innovation, team engagement, and clarity around customer impact. Leadership expresses a desire for greater agility and responsiveness, but current practices tend to favour control and certainty over adaptability and learning.
+Organizations working in uncertain environments often default to measuring activity because it is visible, predictable, and easy to report.
+
+Outputs—features delivered, stories completed, deadlines met—provide the comfort of progress, even when their relationship to customer or business value is unclear.
 
 ## Problem
 
-Traditional delivery frameworks (such as SAFe® or waterfall) often prioritize structure and predictability, which can provide a sense of control. However, this emphasis can unintentionally limit adaptability and responsiveness to change. Teams may be evaluated primarily on output volume rather than impact, and planning tends to be linear and deterministic, leaving limited space for iterative learning and course correction.
+When success is measured by outputs, teams optimize for delivery volume rather than impact.
+
+This leads to:
+
+- feature-heavy roadmaps with weak value signals
+- local optimization that degrades system performance
+- pressure to “deliver” regardless of learning
+- delayed discovery of whether work actually matters
+
+Output focus creates the **illusion of progress** while masking risk.
 
 ## Forces
 
-* Stakeholders want visibility and certainty.
-* Teams crave autonomy and purpose.
-* Customers need solutions, not features.
-* Estimation is unreliable but still expected.
-* Change feels risky, but stagnation is worse.
+- Leaders need visibility and assurance
+- Teams want clarity on what “good” looks like
+- Outcomes are harder to attribute than outputs
+- Learning creates ambiguity and discomfort
+- Measurement systems reward what is easy to count
 
 ## Solution
 
-Introduce EmergentOS as a modular, evidence-based operating system. Start with a few teams. Use OKRs to shift focus from output to outcomes. Visualize work with Kanban. Embed Lean Kata and Flow Engineering to foster continuous improvement. Replace estimation with experimentation. Empower teams to make high-integrity commitments based on validated discovery.
+Shift focus from *what is produced* to *what changes*.
+
+Frame work in terms of:
+
+- intended outcomes
+- observable behavioural or system change
+- hypotheses about value
+- evidence rather than completion
+
+Delivery still matters, but it is treated as a **means**, not an end.
+
+Practices such as outcome-oriented goals, visual flow management, and experimentation can support this pattern—but none are required in specific form.
 
 ## Result
 
-Teams begin to own outcomes, not just tasks. Delivery becomes adaptive, not predictive. Flow improves. Customer impact becomes visible. Leadership shifts from control to coaching. The organization learns faster and delivers smarter.
+- Teams reason about impact, not just throughput
+- Learning happens earlier and more safely
+- Work that does not move outcomes is stopped sooner
+- Strategic conversations reference evidence, not activity
+
+## Trade-offs
+
+- Outcomes are harder to predict and attribute
+- Short-term certainty may decrease
+- Requires leadership comfort with ambiguity
 
 ## Related Patterns
 
-* Deliberate Time for Reflection
-* Big Picture
+- Operate Around Outcomes
+- Measure What Matters
+- Flow First

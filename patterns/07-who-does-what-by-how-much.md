@@ -1,42 +1,56 @@
-# Pattern: Who Does What By How Much
+# Who Does What by How Much
 
 ## Context
 
-Organizations want to align teams around measurable outcomes, not just outputs. OKRs are adopted as a goal-setting framework, but many teams struggle to write OKRs that clearly express impact. Objectives often become vague aspirations, and Key Results drift into task lists or vanity metrics.
+Organizations adopt outcome-oriented goal frameworks to shift focus away from outputs.
+
+However, teams often struggle to express outcomes clearly and measurably.
 
 ## Problem
 
-- OKRs are written as outputs (e.g., “Launch feature X”) rather than outcomes.
-- Key Results lack clarity on who is affected, what behaviour changes, and by how much.
-- Teams find it hard to connect OKRs to strategic priorities and customer impact.
+Poorly articulated goals result in:
+
+- vague aspirations without direction
+- key results that describe activity, not impact
+- metrics that fail to guide learning
+- weak connection between strategy and execution
+
+Outcome language exists, but meaning is lost.
 
 ## Forces
 
-- Stakeholders demand visibility and measurable progress.
-- Teams want autonomy but need clarity on what success looks like.
-- Pressure to deliver quickly leads to output-focused goals.
-- Measuring behavioural change feels harder than tracking delivery milestones.
+- Stakeholders demand measurable progress
+- Teams want clarity without micromanagement
+- Behavioural change is harder to quantify than delivery
+- Pressure for speed encourages task-based goals
 
 ## Solution
 
-Apply Seiden & Gothelf’s formula: Who + Does What + By How Much to craft outcome-focused Key Results.
+Express outcomes in terms of **observable change**.
 
-1. Start with a strong Objective: Inspirational, qualitative, timeboxed, and specific.
-2. Identify the biggest obstacle: What’s preventing success? This sharpens focus.
-3. Write Key Results using the formula:  
-  a. Who: Define the audience or user segment.  
-  b. Does What: Specify the behaviour or action that signals success.  
-  c. By How Much: Quantify the change that matters.  
-4. Validate alignment: Ensure OKRs reflect strategic priorities and are achievable within the timebox.
+A useful structure is:
 
-### Example
+- **Who** is affected
+- **Does What** behaviour or capability changes
+- **By How Much** measurable difference indicates success
 
-- Objective: Improve customer onboarding experience.
-- Key Result: New customers (Who) complete onboarding (Does What) within 3 days (By How Much).
+This framing shifts goals from intent to testable hypotheses.
 
 ## Result
 
-- OKRs become outcome-driven and measurable.
-- Teams gain clarity on what success looks like and why it matters.
-- Leadership shifts from controlling outputs to enabling impact.
-- Progress is tracked through meaningful behavioural and business changes, not feature delivery.
+- Outcomes become concrete and measurable
+- Teams understand what success actually means
+- Progress supports learning, not reporting
+- Strategy connects to behaviour and impact
+
+## Trade-offs
+
+- Requires discipline in goal formulation
+- Behavioural metrics may lag delivery signals
+- Not all outcomes are immediately measurable
+
+## Related Patterns
+
+- Measure What Matters
+- Outcome Over Output
+- Operate Around Outcomes

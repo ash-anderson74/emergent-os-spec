@@ -1,30 +1,62 @@
-# Pattern: Team Topologies
+# Team Topologies and Interaction Boundaries
 
 ## Context
 
-Your organization struggles with delivery speed and coordination. Teams are organized around projects or technologies, leading to frequent handoffs, unclear ownership, and high cognitive load. Dependencies slow progress, and collaboration feels reactive rather than intentional.
+As organizations scale, coordination costs increase.
+
+Poorly defined team responsibilities and interactions lead to friction, delays, and cognitive overload.
 
 ## Problem
 
-Traditional team structures create bottlenecks and silos. Work stalls because teams depend on others for critical capabilities. Coordination overhead grows as systems scale, reducing adaptability and increasing frustration.
+Without clear team boundaries:
+
+- dependencies multiply
+- ownership becomes unclear
+- context switching increases
+- teams lose autonomy
+- delivery slows
+
+Reorganizing repeatedly does not solve the underlying problem.
 
 ## Forces
 
-- Stakeholders want predictability and speed.
-- Teams need clarity of ownership and reduced cognitive load.
-- Dependencies are inevitable but unmanaged.
-- Scaling amplifies complexity and communication challenges.
+- Pressure to “add coordination”
+- Legacy reporting structures
+- Tooling over architecture
+- People assigned to multiple teams
+- Work flowing across unclear boundaries
 
 ## Solution
 
-Apply Team Topologies principles to design team structures for fast flow and clear ownership. Organize teams into four types—Stream-Aligned, Enabling, Platform, and Complicated Subsystem—and define interaction modes (Collaboration, X-as-a-Service, Facilitating). Use topology tune-ups to adapt structures as systems evolve. Empower stream-aligned teams to own end-to-end delivery of customer value, supported by enabling and platform teams that reduce friction.
+Design teams intentionally around:
+
+- value streams
+- bounded cognitive load
+- explicit interaction modes
+
+Clarify:
+
+- who owns what
+- how teams collaborate
+- when dependencies are acceptable
+
+Structure supports flow rather than obstructing it.
 
 ## Result
 
-Teams experience fewer handoffs and clearer boundaries. Cognitive load decreases, enabling faster decision-making and higher autonomy. Dependencies are managed through designed interactions, not ad hoc coordination. Delivery accelerates, and adaptability improves as team structures evolve with the system.
+- Teams operate with clearer purpose
+- Cognitive load decreases
+- Dependencies become visible and manageable
+- Autonomy is sustained at scale
+
+## Trade-offs
+
+- Requires investment in org design
+- Some flexibility is intentionally constrained
+- Not all dependencies can be removed
 
 ## Related Patterns
 
-- Outcome Over Output
-- Coaching Culture
+- Teams Autonomy and Boundaries
+- Visualize Work
 - Flow First

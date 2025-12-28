@@ -1,31 +1,60 @@
-# Pattern: Flow First
+# Flow First
 
 ## Context
 
-Your organization struggles with delays, bottlenecks, and unpredictable delivery. Teams are busy, but work piles up in queues, dependencies stall progress, and leadership focuses on deadlines rather than throughput.
+Organizations often plan and govern work based on scope, deadlines, and utilization.
+
+While these provide a sense of control, they say little about how work actually moves through the system.
 
 ## Problem
 
-Traditional planning emphasizes scope and dates, not flow. Work starts before teams have capacity, creating overload and context switching. Bottlenecks remain hidden, and improvement is reactive rather than systemic.
+When flow is ignored:
+
+- work queues grow silently
+- context switching increases
+- delivery becomes unpredictable
+- teams appear busy while value stalls
+- improvement is reactive
+
+The system optimizes for starting work, not finishing it.
 
 ## Forces
 
-* Stakeholders want visibility and predictability.
-* Teams feel pressure to start more work to “look busy.”
-* Dependencies and handoffs slow progress.
-* Metrics often measure output, not flow health.
+- Stakeholders want predictability
+- Teams feel pressure to start more work
+- Dependencies increase with scale
+- Output-based metrics dominate governance
+- Bottlenecks are politically uncomfortable
 
 ## Solution
 
-Make **flow the primary lens for planning and governance**. Visualize work using **Kanban** at team and portfolio levels. Apply **WIP limits** to prevent overload. Use **flow metrics** (cycle time, throughput, aging work) and **DORA indicators** to guide decisions. Embed **Lean Kata** and **Flow Engineering** to continuously improve delivery systems. Coach leaders to manage through flow—not control through timelines.
+Treat flow as the primary lens for decision-making.
+
+Flow-first thinking:
+
+- limits work in progress
+- prioritizes finishing over starting
+- exposes systemic constraints
+- uses time-based signals to guide improvement
+
+Flow is not a target — it is a **diagnostic**.
 
 ## Result
 
-Work moves predictably and smoothly. Bottlenecks are surfaced and addressed early. Teams deliver iteratively without burnout. Leadership gains real-time insight into delivery health and focuses on enabling flow rather than enforcing deadlines.
+- Delivery becomes more predictable
+- Bottlenecks are addressed systematically
+- Teams operate with less stress and rework
+- Leadership engages through evidence, not escalation
+
+## Trade-offs
+
+- Requires restraint in starting work
+- Reduces short-term throughput illusions
+- Demands patience from stakeholders
 
 ## Related Patterns
 
-* Work Visualisation
-* Collaborative Improvement
-* Outcome Over Output
-* Coaching Culture
+- Work Visualization
+- Collaborative Improvement
+- Outcome Over Output
+- Coaching Culture

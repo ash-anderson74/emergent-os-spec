@@ -1,31 +1,60 @@
-# Pattern: Collaborative Improvement
+# Collaborative Improvement
 
 ## Context
 
-Teams are under pressure to deliver features quickly, leaving little time for improvement. Retrospectives happen but often result in superficial actions or isolated fixes. Leadership wants better performance but struggles to drive systemic change without micromanaging.
+Organizations expect continuous improvement but often treat it as optional, episodic, or leader-driven.
+
+Teams are encouraged to improve, yet lack ownership or safety to address systemic issues.
 
 ## Problem
 
-Improvement is treated as an afterthought or a leadership mandate. Teams lack ownership, and changes fail to stick because they are imposed rather than co-created. Bottlenecks persist, and learning is slow.
+When improvement is imposed or deferred:
+
+- root causes persist
+- teams disengage
+- changes fail to stick
+- learning stalls
+- performance plateaus
+
+Improvement becomes performative rather than transformative.
 
 ## Forces
 
-* Delivery pressure competes with improvement work.
-* Teams fear that raising issues will lead to blame.
-* Leaders want measurable progress but lack visibility into systemic blockers.
-* Improvement feels disconnected from strategic goals.
+- Delivery pressure crowds out improvement
+- Teams fear blame for surfacing problems
+- Leaders seek progress without disruption
+- Improvement efforts lack visible impact
+- Systemic issues cross team boundaries
 
 ## Solution
 
-Embed improvement into the delivery rhythm using **Lean Kata** and **Flow Engineering**. Make improvement objectives visible and measurable by expressing them as **OKRs**. Use collaborative mapping workshops (e.g., Value Stream Maps, Dependency Maps) to surface bottlenecks and design experiments together. Leaders act as coaches, enabling teams to own improvement actions rather than prescribing solutions.
+Make improvement a shared responsibility.
+
+Collaborative improvement:
+
+- focuses on system constraints
+- uses experimentation rather than mandates
+- distributes ownership across teams and leaders
+- treats learning as legitimate work
+
+Leaders enable improvement rather than prescribing solutions.
 
 ## Result
 
-Improvement becomes continuous, safe, and systemic. Teams experiment with small changes, learn from data, and adapt quickly. Leadership gains visibility through flow metrics and OKRs, guiding with evidence—not control. The organization evolves through collective learning rather than isolated fixes.
+- Learning accelerates
+- Improvements compound
+- Teams feel ownership and safety
+- System performance evolves sustainably
+
+## Trade-offs
+
+- Requires time and leadership patience
+- Makes systemic weaknesses visible
+- Reduces tolerance for superficial fixes
 
 ## Related Patterns
 
-* Work Visualisation
-* Flow First
-* Coaching Culture
-* Deliberate Time for Reflection
+- Flow First
+- Deliberate Time for Reflection
+- Coaching Culture
+- Work Visualization

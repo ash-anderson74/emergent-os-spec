@@ -1,37 +1,60 @@
-# Pattern: Coaching Culture
+# Coaching Culture
 
 ## Context
 
-Your organization aspires to become more adaptive and outcome-driven but still relies on traditional management practices. Leaders often focus on tasks, deadlines, and reporting, which limits team autonomy and learning. Teams need guidance and support to grow, improve, and feel safe to experiment.
+Organizations seek adaptability and accountability but often rely on command-and-control leadership models.
+
+Leaders are expected to provide certainty in environments that are inherently uncertain.
 
 ## Problem
 
-Without a coaching mindset, leaders inadvertently stifle innovation and adaptability. Teams become compliance-driven, not outcome-driven. Continuous improvement feels optional instead of embedded.
+Without a coaching mindset:
+
+- teams become compliance-driven
+- learning is constrained
+- improvement stalls
+- leaders become bottlenecks
+- autonomy erodes
+
+Control substitutes for trust.
 
 ## Forces
 
-* Leaders feel pressure to provide predictability and maintain confidence across the organization.
-* Teams seek guidance and clarity but want to avoid micromanagement.
-* Existing cultural norms often emphasize authority and control over empowerment and autonomy.
-* Coaching capabilities are not yet widespread and require intentional development and support.
+- Leaders feel responsible for outcomes
+- Stakeholders expect confidence
+- Coaching skills require development
+- Existing incentives reward authority
+- Letting go feels risky
 
 ## Solution
 
-Shift leadership from directing to coaching. Equip managers with playbooks and rituals that foster clarity, competence, and autonomy. Embed coaching into governance through OKR reviews, flow metrics discussions, and retrospectives. Leaders ask enabling questions like:
+Shift leadership from directing to enabling.
 
-* “What’s blocking flow?”
-* “Where do you need time to learn or improve?”
-* “How can I help remove obstacles?”
+A coaching culture:
 
-Use **Intent-Based Leadership** principles: give control, increase competence, and ensure clarity. Make coaching a visible, measurable part of leadership responsibilities.
+- develops competence and clarity
+- distributes decision-making
+- reinforces accountability through learning
+- treats problems as opportunities for improvement
+
+Leaders guide through questions, not instructions.
 
 ## Result
 
-Teams feel trusted and supported. Leaders guide through data and dialogue, not directives. Continuous improvement becomes systemic. Psychological safety grows, enabling experimentation and learning. The organization evolves faster and more sustainably.
+- Teams take ownership of outcomes
+- Learning accelerates
+- Psychological safety improves
+- Adaptation becomes systemic
+
+## Trade-offs
+
+- Requires sustained investment in leadership capability
+- Progress may feel slower initially
+- Reduces tolerance for heroic management
 
 ## Related Patterns
 
-* Deliberate Time for Reflection
-* Outcome Over Output
-* Collaborative Improvement
-* Big Picture
+- Deliberate Time for Reflection
+- Collaborative Improvement
+- Outcome Over Output
+- Maintaining the Big Picture

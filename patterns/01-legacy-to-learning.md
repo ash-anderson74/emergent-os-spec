@@ -1,31 +1,60 @@
-# Pattern: From Legacy Control to Learning Systems
+# From Legacy Control to Learning Systems
 
 ## Context
 
-Your organization is replacing a legacy system with a new platform. The work appears predictable—re-implementing known features—but hidden complexity, integration challenges, and outdated assumptions threaten delivery confidence.
+Many organizations operate with structures designed for predictable, repeatable work, even as their environment becomes increasingly complex and uncertain.
+
+Legacy operating models emphasize planning, control, and optimization against predefined plans.
 
 ## Problem
 
-Teams assume the work is deterministic and plan using fixed milestones. But legacy systems are poorly documented; dependencies are unclear, and parity does not guarantee value. Delivery slips, and learning is lost.
+In uncertain domains, predictive control fails silently.
+
+Plans appear coherent, yet:
+
+- assumptions remain untested
+- risks surface late
+- delivery success does not translate to value
+- change becomes expensive and political
+
+Organizations mistake execution fidelity for effectiveness.
 
 ## Forces
 
-* Stakeholders expect certainty and parity.
-* Teams face hidden complexity and integration risks.
-* Legacy behaviour is often undocumented or misunderstood.
-* Pressure to deliver quickly undermines discovery and validation.
+- Historical success reinforces legacy models
+- Governance systems expect commitments
+- Leaders fear loss of control
+- Teams are rewarded for predictability
+- Learning is perceived as delay or inefficiency
 
 ## Solution
 
-Run EmergentOS to shift from deterministic reimplementation to outcome-driven migration. Use OKRs to define strategic outcomes (e.g. reduced support tickets, improved performance). Run validated discovery to confirm feasibility before committing. Use Kanban to visualize migration flow and Lean Kata to improve delivery. Empower teams to make high-integrity commitments based on evidence.
+Treat the organization as a learning system rather than a delivery machine.
+
+This involves:
+
+- making assumptions explicit
+- validating feasibility and value early
+- using evidence to guide decisions
+- evolving direction based on learning
+
+Control is replaced with **guided autonomy**, bounded by intent and transparency.
 
 ## Result
 
-Migration becomes iterative, resilient, and outcome focused. Teams uncover hidden risks early, validate assumptions, and deliver with confidence. Legacy is replaced not just with parity—but with learning, improvement, and measurable impact.
+- Risk is reduced earlier
+- Plans evolve without crisis
+- Teams surface problems instead of hiding them
+- Decisions improve as information quality increases
+
+## Trade-offs
+
+- Short-term predictability decreases
+- Requires changes in governance and leadership behaviour
+- Demands patience and trust
 
 ## Related Patterns
 
-* Outcome Over Output
-* High Integrity Commitments
-* Deliberate Time for Reflection
-* Big Picture
+- Deliberate Time for Reflection
+- Adaptive Funding
+- Improve Collaboratively
