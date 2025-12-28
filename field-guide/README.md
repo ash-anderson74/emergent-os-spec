@@ -9,6 +9,13 @@ These ideas surface in Lean, DevOps, product discovery, systems thinking, and mo
 
 EmergentOS exists to organize those recurring patterns into a **coherent operating model**, without freezing them into dogma.
 
+> **How to read this guide**
+>
+> This page is intentionally conceptual.
+> It explains the operating logic behind EmergentOS.
+>
+> Concrete examples and application guidance appear later in the Field Guide and in the Practice Playbooks.
+
 ---
 
 ## The Problem with Isolated Practices
