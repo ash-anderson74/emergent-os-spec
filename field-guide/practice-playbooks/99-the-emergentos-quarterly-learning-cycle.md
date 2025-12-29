@@ -28,7 +28,7 @@ This is referred to in EOS as **Slowification**.
 
 > **Lineage note**
 >
-> The concept of **Slowification**, understood as the intentional design of pauses, reflection, and structured time for learning, originates in **Gene Kim and Steven Spear’s work > in&#x20;**_**Wiring the Winning Organization**_.
+> The concept of **Slowification**, understood as the intentional design of pauses, reflection, and structured time for learning, originates in **Gene Kim and Steven Spear’s work in&#x20;**_**Wiring the Winning Organization**_.
 >
 > Kim & Spear describe how high-performing, adaptive organizations deliberately create space for sensemaking, inspection, and organizational learning within the flow of work — even as they optimize for speed and reliability. Their framing influenced EmergentOS’s articulation of Slowification as a **strategic enabler of sustainable adaptability**.
 >
@@ -40,7 +40,7 @@ This is referred to in EOS as **Slowification**.
 > * reflection is integrated into delivery cadence,
 > * leadership engages with evidence over urgency.
 >
-> While the term and emphasis are drawn from _Wiring the Winning Organization_, EOS places Slowification within a broader context of value stream awareness, hypothesis-driven > investment, and continuous learning loops.
+> While the term and emphasis are drawn from _Wiring the Winning Organization_, EOS places Slowification within a broader context of value stream awareness, hypothesis-driven investment, and continuous learning loops.
 >
 > [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
 

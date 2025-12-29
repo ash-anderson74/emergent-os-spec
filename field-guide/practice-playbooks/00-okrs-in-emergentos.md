@@ -168,7 +168,7 @@ A commitment made without evidence is **not a commitment** — it is a gamble.
 
 ### High-Integrity Commitments Defined
 
-A **High-Integrity Commitment** is a High-Integrity Commitment that is:
+A **High-Integrity Commitment** is a high-value commitment that is:
 
 * preceded by discovery or experimentation
 * grounded in feasibility and viability evidence
