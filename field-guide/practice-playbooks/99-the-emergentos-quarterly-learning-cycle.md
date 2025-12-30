@@ -26,23 +26,25 @@ This is referred to in EOS as **Slowification**.
 
 ***
 
-> **Lineage note**
->
-> The concept of **Slowification**, understood as the intentional design of pauses, reflection, and structured time for learning, originates in **Gene Kim and Steven Spear’s work in&#x20;**_**Wiring the Winning Organization**_.
->
-> Kim & Spear describe how high-performing, adaptive organizations deliberately create space for sensemaking, inspection, and organizational learning within the flow of work — even as they optimize for speed and reliability. Their framing influenced EmergentOS’s articulation of Slowification as a **strategic enabler of sustainable adaptability**.
->
-> EmergentOS adopts Slowification not as a prescriptive ritual, but as a **constraint on operating rhythm** that ensures:
->
-> * strategic alignment has room to emerge,
-> * discovery is resourced before delivery,
-> * improvement is normalised rather than deferred,
-> * reflection is integrated into delivery cadence,
-> * leadership engages with evidence over urgency.
->
-> While the term and emphasis are drawn from _Wiring the Winning Organization_, EOS places Slowification within a broader context of value stream awareness, hypothesis-driven investment, and continuous learning loops.
->
-> [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
+{% hint style="info" %}
+**Lineage note**
+
+The concept of **Slowification**, understood as the intentional design of pauses, reflection, and structured time for learning, originates in **Gene Kim and Steven Spear’s work in&#x20;**_**Wiring the Winning Organization**_.
+
+Kim & Spear describe how high-performing, adaptive organizations deliberately create space for sensemaking, inspection, and organizational learning within the flow of work — even as they optimize for speed and reliability. Their framing influenced EmergentOS’s articulation of Slowification as a **strategic enabler of sustainable adaptability**.
+
+EmergentOS adopts Slowification not as a prescriptive ritual, but as a **constraint on operating rhythm** that ensures:
+
+* strategic alignment has room to emerge,
+* discovery is resourced before delivery,
+* improvement is normalised rather than deferred,
+* reflection is integrated into delivery cadence,
+* leadership engages with evidence over urgency.
+
+While the term and emphasis are drawn from _Wiring the Winning Organization_, EOS places Slowification within a broader context of value stream awareness, hypothesis-driven investment, and continuous learning loops.
+
+[References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
+{% endhint %}
 
 ***
 
