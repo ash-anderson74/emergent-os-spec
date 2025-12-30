@@ -22,15 +22,17 @@ This playbook describes how **Lean Value Trees (LVTs)**, **OKRs**, and **Portfol
 
 ***
 
-> **Lineage note**
->
-> Lean Value Trees were introduced by Linda Luu, Jim Highsmith, and Dave Robinson as part of Thoughtworks’ work on value-driven transformation, and formalized in _EDGE_.
->
-> Their intent was to provide a lightweight, hypothesis-driven approach to portfolio governance that connects strategy to execution while preserving adaptability.
->
-> EmergentOS adopts Lean Value Trees as a **strategic alignment mechanism**, and integrates them with OKRs and flow-based visualization to form a continuous alignment loop.
->
-> [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
+{% hint style="info" %}
+**Lineage note**
+
+Lean Value Trees were introduced by Linda Luu, Jim Highsmith, and Dave Robinson as part of Thoughtworks’ work on value-driven transformation, and formalized in _EDGE_.
+
+Their intent was to provide a lightweight, hypothesis-driven approach to portfolio governance that connects strategy to execution while preserving adaptability.
+
+EmergentOS adopts Lean Value Trees as a **strategic alignment mechanism**, and integrates them with OKRs and flow-based visualization to form a continuous alignment loop.
+
+[References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
+{% endhint %}
 
 ***
 
