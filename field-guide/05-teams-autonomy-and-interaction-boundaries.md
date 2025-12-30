@@ -8,7 +8,7 @@ EmergentOS treats autonomy not as a goal, but as a **system property that must b
 
 ---
 
-## A Note on Cross-Functional Product Teams
+### A Note on Cross-Functional Product Teams
 
 Across the contemporary literature on product development, DevOps, and organizational design, a consistent pattern emerges: **small, empowered, cross-functional teams with clear end-to-end ownership** outperform functionally siloed structures in environments characterized by uncertainty, complexity, and rapid change.
 
