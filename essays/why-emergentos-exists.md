@@ -1,5 +1,10 @@
 # Why EmergentOS Exists
 
+>*“Rather than the domain of work being repetitive, knowable, and deterministic with known-unknowns (you know how to fix it if something goes wrong), unique product development is unknowable and **emergent** with unknown-unknowns instead. For something that has not been done before, you don’t know what you don’t know until you do something and get feedback.”*  
+ — Jonathan Smart, Sooner Safer Happier
+
+---
+
 EmergentOS did not begin as an attempt to invent something new.
 
 It emerged from a repeated, frustrating observation inside a real organisation:  

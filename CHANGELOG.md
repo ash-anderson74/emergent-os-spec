@@ -57,6 +57,7 @@ This release represents a complete, coherent operating system for adaptability i
   - Rejection of deterministic planning by default
   - Adaptive funding over deterministic budgeting
   - Treating flow metrics as signals, not targets
+- The EmergentOS Component Model diagram (with explanatory essay)
 
 ### Notes
 
