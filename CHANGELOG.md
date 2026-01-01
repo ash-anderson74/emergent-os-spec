@@ -61,6 +61,7 @@ This release represents a complete, coherent operating system for adaptability i
 - Introduced the EmergentOS component relationship model as an interpretive aid
 - Added narrative guidance on how to read conceptual diagrams without treating them as implementation artefacts
 - Improved cross-space navigation and reader orientation across Spec, Field Guide, Essays, and Patterns
+- Added anchor as clarification
 
 ### Notes
 

@@ -7,6 +7,14 @@ It describes how strategy, discovery, delivery, flow, learning, and governance c
 EmergentOS is **not** a methodology, framework, or transformation program.\
 It is a modular, composable operating model designed to evolve through use, feedback, and learning.
 
+EmergentOS is grounded in a simple system-level assumption:
+
+**People behave rationally within the constraints of the operating system they inhabit.**
+
+From this perspective, behaviour is not something to be instructed or corrected directly. It is an outcome of incentives, constraints, feedback loops, decision rights, and risk placement. To change behaviour, the system that makes that behaviour rational must change.
+
+Everything in this specification follows from that assumption. EmergentOS therefore treats system design—not instruction or enforcement—as the primary lever for organisational change.
+
 ***
 
 ## Why EmergentOS Exists
