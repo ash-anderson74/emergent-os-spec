@@ -13,3 +13,4 @@
 * [Why Behaviour Follows Systems](why-behaviour-follows-systems.md)
 * [Learning Is How the System Changes Itself](learning-is-how-the-system-changes-itself.md)
 * [Learning and Value in EmergentOS](learning-and-value-in-emergentos.md)
+* [Risk, Certainty, and the Illusion of Control](risk-certainty-and-the-illusion-of-control.md)
