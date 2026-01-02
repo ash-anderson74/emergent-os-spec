@@ -14,7 +14,7 @@ EmergentOS treats strategy, funding, delivery, flow, learning, and governance as
 
 ### What EmergentOS Is
 
-EmergentOS is a living specification for operating in complex product environments.
+EmergentOS is a living specification for operating effectively in complex product environments.
 
 It defines:
 
