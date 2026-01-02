@@ -6,7 +6,7 @@ Many established delivery and governance models assume the opposite. They rely o
 
 EmergentOS (EOS) is a **socio-technical operating system** designed for organizations working under these conditions.
 
-It does not prescribe delivery methods, roles, tools, or ceremonies. Instead, it defines a coherent set of assumptions, constraints, and accountabilities that describe the **conditions under which an organization can operate if it is to learn, adapt, and invest effectively in the presence of uncertainty**.
+It does not prescribe delivery methods, roles, tools, or ceremonies. Instead, it defines a coherent set of assumptions, constraints, and accountabilities that describe **how an organization must operate if it is to learn, adapt, and invest effectively in the presence of uncertainty**.
 
 EmergentOS treats strategy, funding, delivery, flow, learning, and governance as interdependent system concerns rather than isolated functions. Decisions in one area are expected to shape—and be shaped by—signals from the others.
 
