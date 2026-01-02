@@ -69,15 +69,23 @@ Deterministic planning techniques may be used in **low-uncertainty contexts**, b
 
 ***
 
-## How to Read and Use This Specification
+### How to Read and Use This Specification
 
-* Read **non-linearly**; modules stand independently
-* Apply selectively based on context and constraints
-* Prefer experimentation over adoption
-* Treat metrics as **signals**, not targets
-* Expect this specification to evolve
+* This specification is **modular**; sections stand independently and do not require sequential reading.
+* Apply elements **selectively**, based on your context and constraints.
+* Prefer **experimentation and learning** over wholesale adoption.
+* Treat **metrics as signals**, not as targets or performance proxies.
+* Expect this specification to **evolve** as learning accumulates.
 
-If you are looking for prescriptive steps, fixed roadmaps, or guaranteed outcomes, EmergentOS is not the right operating model.
+If you are seeking prescriptive steps, fixed roadmaps, or guaranteed outcomes, **EmergentOS is not the appropriate operating model**.
+
+***
+
+### On Trade-offs and Tensions
+
+Apparent conflicts between principles are treated as **signals of unresolved system constraints**, not as choices to be arbitrated.
+
+EmergentOS does not provide priority rules between principles. Instead, it provides a structure for **learning and system evolution**, so that tensions are resolved through changes to the operating environment rather than enforced compromise or local optimisation.
 
 ***
 
@@ -111,11 +119,11 @@ Expect incomplete sections, evolving language, and active refinement.
 
 ## Related Material
 
-* [Field Guide](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/) → explains how EOS works in practice
+* [Field Guide](https://app.gitbook.com/o/GRX8PFtV7EU1EpAUbqjk/s/wVqEs2cuXgPu222Kt8eP/) → explains how EOS works in practice
 * [Practice Playbooks](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/practice-playbooks) → concrete, EOS-aligned guidance
-* [Patterns & Anti-Patterns](https://app.gitbook.com/s/yYdXGH2DtxmsDRcRRrNr/) → reusable system dynamics
-* [Essays](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/) → rationale and guardrails
-* [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/) → source literature
+* [Patterns & Anti-Patterns](https://app.gitbook.com/o/GRX8PFtV7EU1EpAUbqjk/s/yYdXGH2DtxmsDRcRRrNr/) → reusable system dynamics
+* [Essays](https://app.gitbook.com/o/GRX8PFtV7EU1EpAUbqjk/s/abU988grMBS3MbFi8ZSB/) → rationale and guardrails
+* [References](https://app.gitbook.com/o/GRX8PFtV7EU1EpAUbqjk/s/oCIDNaq6Gp7xkyOJCltO/) → source literature
 
 ***
 
