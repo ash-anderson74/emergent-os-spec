@@ -87,6 +87,8 @@ Apparent conflicts between principles are treated as **signals of unresolved sys
 
 EmergentOS does not provide priority rules between principles. Instead, it provides a structure for **learning and system evolution**, so that tensions are resolved through changes to the operating environment rather than enforced compromise or local optimisation.
 
+When values appear to conflict, EmergentOS treats the tension itself as diagnostic data. The objective is not to arbitrate between values, but to evolve the system so the conflict no longer forces trade-offs at the team level.
+
 ***
 
 ## Versioning and Evolution
