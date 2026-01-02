@@ -77,9 +77,9 @@ Initiatives remain traceable to value and are continuously reassessed as learnin
 
 ### 7. Coaching Culture
 
-Leaders act as coaches who foster growth, clarity, and capability.
+Leaders act to enable learning, decision-making, and capability growth rather than directing outcomes.&#x20;
 
-Governance and leadership interactions are developmental in nature, supporting learning and alignment rather than enforcing compliance.
+Coaching is used here as a broad descriptor for leadership behaviours that foster autonomy, safety, and system awareness—not as a specific methodology.
 
 ***
 
