@@ -56,6 +56,8 @@ EmergentOS is used by:
 Practices are expected to vary.\
 System behaviour is expected to remain coherent.
 
+System behaviour is considered coherent when decisions, incentives, and feedback loops reinforce stated intent and adapt in response to learning.
+
 ***
 
 ## Scope
