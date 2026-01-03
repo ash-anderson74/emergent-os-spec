@@ -21,7 +21,7 @@ Any use of metrics, objectives, or governance mechanisms must be understood rela
 
 ### System Boundaries: Invariants and Constraints
 
-EOS defines a set of **invariants** and **constraints** in its specification. These form the stable kernel of the system.
+EOS defines a set of invariants and requires that organisations establish and evolve constraints to uphold them. These form the stable kernel of the system.
 
 * **Invariants** establish enduring design boundaries that shape behaviour without prescribing practice.
 * **Constraints** represent conditions that must hold for the system to remain viable, safe, and trustworthy.
@@ -95,6 +95,8 @@ From an EOS perspective:
 
 Their purpose is not certainty, but _evidence_.
 
+OKRs do not confer commitment. **High-integrity commitments** remain gated by evidence and explicit governance decisions outside the OKR mechanism.
+
 ***
 
 ### Key Results as Learning Signals
@@ -131,6 +133,8 @@ Embedding KPIs directly into OKRs collapses sensing and steering into a single c
 * Constraint erosion masked as progress
 * Learning signals polluted by performance pressure
 * Governance driven by dashboards rather than understanding
+
+_Example:_ Treating deployment frequency both as a KPI and as a key result typically leads to superficial acceleration, degraded quality signals, and reduced learning — not because teams are failing, but because sensing has been repurposed as enforcement.
 
 From an EOS standpoint, such collapse represents a design violation, not a tooling mistake.
 
