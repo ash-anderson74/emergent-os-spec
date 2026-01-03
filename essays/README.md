@@ -27,7 +27,7 @@ They help readers understand **why the system is designed the way it is**.
 Essays are intentionally different from:
 
 - **The Spec**  
-  which defines system-level principles, constraints, and invariants
+  which defines system-level principles and invariants, against which organisational constraints are designed
 
 - **The Field Guide and Practice Playbooks**  
   which describe how EOS operates in practice through patterns and examples

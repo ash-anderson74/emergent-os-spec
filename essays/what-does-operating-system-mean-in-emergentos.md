@@ -43,7 +43,7 @@ It defines **how an organization operates under uncertainty**.
 Specifically, it defines:
 
 - the assumptions an organization makes about uncertainty
-- the constraints under which decisions are made
+- how decisions are shaped by incentives, risks, and evolving constraints
 - how learning, flow, and alignment interact
 - what must remain true for adaptability to emerge
 - how governance guides without controlling

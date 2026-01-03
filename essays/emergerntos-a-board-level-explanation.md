@@ -135,7 +135,7 @@ to:
 EmergentOS is:
 
 - a way of understanding how an organisation actually operates
-- a means of identifying systemic constraints on change
+- a means of identifying where system behaviour requires new or adjusted constraints
 - a model for evolving organisational behaviour deliberately
 
 EmergentOS is not:

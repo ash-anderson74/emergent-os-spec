@@ -64,7 +64,7 @@ This is why EmergentOS could not be another framework, methodology, or operating
 Frameworks change behaviour by prescription.  
 Operating systems change behaviour by altering **defaults**.
 
-EmergentOS was created to articulate the system-level constraints under which modern product development and business agility can actually function. It defines what must remain true about decision-making, learning, flow, and governance for new behaviours to persist without constant enforcement.
+EmergentOS was created to articulate the system-level conditions under which modern product development and business agility can actually function. It defines what must remain true about decision-making, learning, flow, and governance for new behaviours to persist without constant enforcement.
 
 Rather than telling teams what to do, it asks a harder question:
 
