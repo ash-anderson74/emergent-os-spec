@@ -411,3 +411,9 @@ It is an **operating rhythm to internalize**.
 EmergentOS works not because of any single practice, but because learning, delivery, and improvement are composed into a single, continuous system.
 
 Slowification makes that system sustainable.
+
+***
+
+## Further Reading
+
+[OKRs, KPIs, and Value Delivery in an Emergent System](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/okrs-kpis-and-value-delivery-in-an-emergent-system)
