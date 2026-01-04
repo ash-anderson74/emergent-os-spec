@@ -8,6 +8,7 @@
 * [Why Behaviour Follows Systems](why-behaviour-follows-systems.md)
 * [How To Design a System Where Learning Governs Behaviour](how-to-design-a-system-where-learning-governs-behaviour.md)
 * [Why Psychological Safety Emerges — or Disappears — by Design](why-psychological-safety-emerges-or-disappears-by-design.md)
+* [Why Root Cause Analysis Fails in Social Systems](why-root-cause-analysis-fails-in-social-systems.md)
 * [Designing Constraints Without Turning EOS Into a Framework](designing-constraints-without-turning-eos-into-a-framework.md)
 * [Learning Is How the System Changes Itself](learning-is-how-the-system-changes-itself.md)
 * [Learning and Value in EmergentOS](learning-and-value-in-emergentos.md)
@@ -20,4 +21,3 @@
 * [Interpreting the EmergentOS Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [Why EOS Refuses to Orchestrate Time](why-eos-refuses-to-orchestrate-time.md)
 * [A Conversation Between a SAFe Practitioner and an EOS Operator](safesceptic-vs-eos-operator.md)
-* [Why Root Cause Analysis Fails in Social Systems](why-root-cause-analysis-fails-in-social-systems.md)
