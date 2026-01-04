@@ -18,3 +18,4 @@
 * [EmergentOS: A Board-Level Explanation](emergerntos-a-board-level-explanation.md)
 * [Why EOS Refuses to Orchestrate Time](why-eos-refuses-to-orchestrate-time.md)
 * [Why Synchronisation Is Not Alignment](why-synchronisation-is-not-alignment.md)
+* [Page 1](page-1.md)
