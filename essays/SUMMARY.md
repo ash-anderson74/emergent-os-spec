@@ -4,6 +4,7 @@
 * [EmergentOS: A Board-Level Explanation](emergerntos-a-board-level-explanation.md)
 * [Why EmergentOS Exists](why-emergentos-exists.md)
 * [What Does “Operating System” Mean in EmergentOS?](what-does-operating-system-mean-in-emergentos.md)
+* [A Plain-English Introduction to Systems Thinking](a-plain-english-introduction-to-systems-thinking.md)
 * [Why Behaviour Follows Systems](why-behaviour-follows-systems.md)
 * [How To Design a System Where Learning Governs Behaviour](how-to-design-a-system-where-learning-governs-behaviour.md)
 * [Why Psychological Safety Emerges — or Disappears — by Design](why-psychological-safety-emerges-or-disappears-by-design.md)
@@ -19,4 +20,3 @@
 * [Interpreting the EmergentOS Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [Why EOS Refuses to Orchestrate Time](why-eos-refuses-to-orchestrate-time.md)
 * [A Conversation Between a SAFe Practitioner and an EOS Operator](safesceptic-vs-eos-operator.md)
-* [A Plain-English Introduction to Systems Thinking](a-plain-english-introduction-to-systems-thinking.md)
