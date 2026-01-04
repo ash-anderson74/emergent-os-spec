@@ -8,6 +8,7 @@
 * [Teams, Autonomy, and Boundaries](05-teams-autonomy-and-interaction-boundaries.md)
 * [Improvement as System Work](06-improvement-as-deliberate-system-work.md)
 * [Aspirations vs Commitments](07-commitments-vs-aspirations.md)
+* [Facilitation Guide: Behaviour Constraint Mapping in Practice](08-behaviour-constraint-mapping-in-practice.md)
 * [Practice Playbooks](practice-playbooks/README.md)
   * [Playbook: Adaptive Funding](practice-playbooks/00-adaptive-funding-and-metered-investment.md)
   * [Playbook: Strategic Alignment (LVTs, OKRs, Flow)](practice-playbooks/01-strategic-alignment-with-lvts-okrs-and-portfolio-kanban.md)
