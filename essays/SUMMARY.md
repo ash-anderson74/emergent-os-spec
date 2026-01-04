@@ -19,3 +19,4 @@
 * [Interpreting the EmergentOS Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [Why EOS Refuses to Orchestrate Time](why-eos-refuses-to-orchestrate-time.md)
 * [A Conversation Between a SAFe Practitioner and an EOS Operator](safesceptic-vs-eos-operator.md)
+* [A Plain-English Introduction to Systems Thinking](a-plain-english-introduction-to-systems-thinking.md)
