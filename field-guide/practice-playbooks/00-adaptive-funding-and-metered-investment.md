@@ -160,8 +160,9 @@ These themes answer:
 
 * Bets are _not initiatives_
 * Bets are strategic experiments
-* Each bet assumes:\
-  \&#xNAN;_If we invest here, we expect to move the outcome in this direction_
+* Each bet assumes:
+
+> _If we invest here, we expect to move the outcome in this direction_
 
 Each bet includes:
 
