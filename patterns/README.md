@@ -2,7 +2,7 @@
 
 This directory contains a collection of **reusable patterns** observed across high-performing product and technology organizations.
 
-The patterns are **not EmergentOS-specific requirements**.\
+The patterns are **not Emergent Operating Model-specific requirements**.\
 They are transferable abstractions that appear repeatedly across the literature and in practice.
 
 ***
@@ -18,30 +18,30 @@ Patterns exist to:
 
 They describe **what tends to work**, not what must be followed.
 
-> These patterns are used by EmergentOS but are not specific to it. They can be applied independently.
+> These patterns are used by the Emergent Operating Model but are not specific to it. They can be applied independently.
 >
-> How EmergentOS uses patterns → [Field Guide](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/)
+> How EOM uses patterns → [Field Guide](https://app.gitbook.com/o/GRX8PFtV7EU1EpAUbqjk/s/wVqEs2cuXgPu222Kt8eP/)
 
 ***
 
-## How Patterns Relate to EmergentOS
+## How Patterns Relate to the Emergent Operating Model
 
-EmergentOS is a **coherent composition of these patterns** bound together by explicit principles and constraints.
+The Emergent Operating Model (EOM) is a **coherent composition of these patterns** bound together by explicit principles and constraints.
 
 Patterns:
 
-* can be applied independently of EmergentOS
+* can be applied independently of EOM
 * may be adopted partially or in isolation
 * often appear in multiple contexts and frameworks
 * are intentionally implementation-agnostic
 
-EmergentOS:
+EOM:
 
 * selects, constrains, and composes these patterns
 * defines the conditions under which they coexist safely
 * protects them from misuse through governance and learning
 
-The patterns are the **raw material** from which EmergentOS is formed.
+The patterns are the **raw material** from which EOM is formed.
 
 ***
 
@@ -74,9 +74,9 @@ You may use the patterns in this library to:
 * explain why certain approaches work or fail
 * support coaching conversations
 * identify missing or conflicting forces
-* recombine ideas outside of EmergentOS
+* recombine ideas outside of EOM
 
-You do not need to adopt EmergentOS to benefit from these patterns.
+You do not need to adopt EOM to benefit from these patterns.
 
 ***
 
