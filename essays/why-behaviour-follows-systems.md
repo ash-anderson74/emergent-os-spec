@@ -1,6 +1,6 @@
 # Why Behaviour Follows Systems
 
-EmergentOS is anchored on a simple system-level premise:
+The Emergent Operating Model (EOM) is anchored on a simple system-level premise:
 
 > **People behave rationally within the constraints of the operating system they inhabit.**
 
@@ -10,7 +10,7 @@ This is neither a slogan nor a philosophical position. It is a descriptive claim
 
 ### What Kind of Claim This Is
 
-The EmergentOS anchor is not a moral claim about how people ought to behave, nor a motivational claim about intent, culture, or values. It makes no assertions about intelligence, goodwill, or effort.
+The Emergent Operating Model anchor is not a moral claim about how people ought to behave, nor a motivational claim about intent, culture, or values. It makes no assertions about intelligence, goodwill, or effort.
 
 It is a **systems claim**.
 
@@ -47,7 +47,7 @@ A truism is true by definition. This statement contradicts several deeply embedd
 * better communication produces alignment
 * compliance leads to learning
 
-EmergentOS rejects those assumptions. It proposes that behaviour persists because the system continually rewards it.
+EOM rejects those assumptions. It proposes that behaviour persists because the system continually rewards it.
 
 Like other foundational insights — such as the distinction between local and global optimisation, or the role of feedback latency in risk — this idea feels inevitable only once it has been clearly articulated.
 
@@ -71,7 +71,7 @@ The claim is therefore not merely logical. It is robust under observation.
 
 ### Beyond Technology
 
-Although EmergentOS is framed for complex product environments, the anchor holds far beyond technology.
+Although EOM is framed for complex product environments, the anchor holds far beyond technology.
 
 The same dynamics are visible in healthcare, education, finance, government, journalism, academia, and law. In each case, local behaviour makes sense in context, even when system-level outcomes are deeply problematic.
 
@@ -81,7 +81,7 @@ Technology environments simply make these dynamics more visible, because feedbac
 
 ### Why the Wording Matters
 
-Many theories gesture toward this idea indirectly. EmergentOS makes it explicit.
+Many theories gesture toward this idea indirectly. EOM makes it explicit.
 
 The phrasing is deliberate:
 
@@ -96,10 +96,10 @@ This framing shifts attention away from blame and toward system design — where
 
 ### Conclusion
 
-The EmergentOS anchor is not a belief to be accepted or rejected. It is a compressed statement of a pattern that has been rediscovered across fields for decades.
+The Emergent Operating Model anchor is not a belief to be accepted or rejected. It is a compressed statement of a pattern that has been rediscovered across fields for decades.
 
 If it were false, much of organisational science would fail to explain what we see every day.
 
-EmergentOS does not invent this idea. It centres it — and then refuses to let improvement efforts ignore it.
+EOM does not invent this idea. It centres it — and then refuses to let improvement efforts ignore it.
 
-That refusal is the foundation on which everything else in EmergentOS rests.
+That refusal is the foundation on which everything else in EOM rests.
