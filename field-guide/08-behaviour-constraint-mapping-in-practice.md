@@ -1,10 +1,10 @@
 # Facilitation Guide: Behaviour Constraint Mapping in Practice
 
-This guide describes how EOS operators facilitate system insight. It is not a required method, process, or practice.
+This guide describes how Emergent Operating Model (EOM) operators facilitate system insight. It is not a required method, process, or practice.
 
 ***
 
-This guide supports EOS operators in facilitating conversations that shift focus from behaviour correction to system redesign.
+This guide supports EOM operators in facilitating conversations that shift focus from behaviour correction to system redesign.
 
 It is deliberately lightweight. Its purpose is sensemaking — not diagnosis, judgement, or solution design.
 
@@ -164,9 +164,9 @@ If the conversation becomes personal, slow it down and return to:
 
 ***
 
-## EOS Alignment
+## EOM Alignment
 
-This facilitation approach enacts the EOS anchor directly:
+This facilitation approach enacts the EOM anchor directly:
 
 > **To change behaviour, you must change the system that makes that behaviour rational.**
 
@@ -277,4 +277,4 @@ And critically:
 
 > Any subsequent change now targets **conditions**, not compliance.
 
-That is an EOS success condition.
+That is an EOM success condition.
