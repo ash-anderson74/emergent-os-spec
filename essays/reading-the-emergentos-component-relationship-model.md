@@ -1,8 +1,8 @@
-# Reading the EmergentOS Component Relationship Model
+# Reading the EOM Component Relationship Model
 
 ![EmergentOS Component Relationship Model](.gitbook/assets/eos-component-relationship-model.png)
 
-The EmergentOS component relationship diagram is often mistaken for an architecture, a process, or an implementation blueprint.
+The Emergent Operating Model (EOM) component relationship diagram is often mistaken for an architecture, a process, or an implementation blueprint.
 
 It is none of those.
 
@@ -139,7 +139,7 @@ This is the operating system at work: behaviour changes because learning changes
 
 Every box in the diagram can—and often does—exist independently in organisations today.
 
-What EmergentOS asserts is that **none of them work reliably in isolation**.
+What the Emergent Operating Model asserts is that **none of them work reliably in isolation**.
 
 OKRs without flow become reporting. CI/CD without product thinking accelerates the wrong work. Metrics without improvement create fear. Strategy without translation becomes theatre.
 
@@ -169,7 +169,7 @@ If the question being asked is “Where do we start?”, the diagram has already
 
 ## In Summary
 
-The EmergentOS component relationship model is not a map of what to do.
+The EOM component relationship model is not a map of what to do.
 
 It is a map of **why certain things only work when the surrounding system supports them**.
 
