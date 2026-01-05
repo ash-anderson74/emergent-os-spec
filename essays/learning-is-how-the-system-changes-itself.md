@@ -1,6 +1,6 @@
 # Learning Is How the System Changes Itself
 
-EmergentOS is grounded in the idea that behaviour is shaped by the system people inhabit.\
+The Emergent Operating Model (EOM) is grounded in the idea that behaviour is shaped by the system people inhabit.\
 From that perspective, improvement cannot begin with instruction or exhortation. It must begin with **changing the conditions under which learning is possible**.
 
 This leads to a simple but easily missed insight:
@@ -67,7 +67,7 @@ Crucially, the learning that matters is not about people. It is about **the syst
 
 This is where prescriptive models often fail.
 
-Rather than applying a predefined solution, EmergentOS treats each insight as a prompt to adapt the system itself:
+Rather than applying a predefined solution, EOM treats each insight as a prompt to adapt the system itself:
 
 * adjust funding rules
 * revise governance thresholds
@@ -122,7 +122,7 @@ The system starts pulling itself toward better outcomes—not because people cha
 
 #### In Summary
 
-EmergentOS does not assume knowledge precedes change.\
+The Emergent Operating Model does not assume knowledge precedes change.\
 It assumes **learning precedes knowing**, and **system change precedes sustained learning**.
 
 You do not change systems by having better answers.\
