@@ -3,7 +3,7 @@
 * [Essays](README.md)
 * [EmergentOS: A Board-Level Explanation](emergerntos-a-board-level-explanation.md)
 * [Why EmergentOS Exists](why-emergentos-exists.md)
-* [What Does “Operating System” Mean in EmergentOS?](what-does-operating-system-mean-in-emergentos.md)
+* [What Does “Operating Model” Mean in Emergent Operating Model?](what-does-operating-system-mean-in-emergentos.md)
 * [A Plain-English Introduction to Systems Thinking](a-plain-english-introduction-to-systems-thinking.md)
 * [Why Behaviour Follows Systems](why-behaviour-follows-systems.md)
 * [One Operating System, Many Experiences](one-operating-system-many-experiences.md)
