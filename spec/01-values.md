@@ -1,12 +1,12 @@
 # Values
 
-EmergentOS is grounded not only in structural principles and system constraints, but also in a set of **shared values**.
+The Emergent Operating Model (EOM) is grounded not only in structural principles and system constraints, but also in a set of **shared values**.
 
 Values express **how people are expected to behave and make judgments** when the principles leave room for interpretation. They guide day-to-day choices, trade-offs, and interactions in ways that cannot be fully specified by a system design alone.
 
 The values below do not describe how organisations currently behave, nor do they prescribe behaviour directly.
 
-In EmergentOS, behaviour is shaped by the operating environment. Values express **intent and direction**—they describe the behaviours the system must make rational over time.
+With EOM, behaviour is shaped by the operating environment. Values express **intent and direction**—they describe the behaviours the system must make rational over time.
 
 Misalignment between stated values and observed behaviour is treated as a **signal of system constraints**, not a failure of people.
 
@@ -25,7 +25,7 @@ Together, they ensure that EmergentOS is not only coherent, but livable.
 
 ***
 
-## EmergentOS Values
+## Emergent Operating Model Values
 
 ### 1. Outcome Over Output
 
@@ -77,7 +77,7 @@ Initiatives remain traceable to value and are continuously reassessed as learnin
 
 ### 7. Coaching Culture
 
-Leaders act to enable learning, decision-making, and capability growth rather than directing outcomes.&#x20;
+Leaders act to enable learning, decision-making, and capability growth rather than directing outcomes.
 
 Coaching is used here as a broad descriptor for leadership behaviours that foster autonomy, safety, and system awareness—not as a specific methodology.
 
@@ -119,4 +119,4 @@ Each initiative begins with a clear hypothesis about the outcome it is expected 
 
 Values shape culture through repeated behavior.
 
-In EmergentOS, values reinforce the principles by guiding how people respond to uncertainty, tension, and incomplete information. They ensure that adaptability is expressed not only through structure, but through everyday choices.
+In the Emergent Operating Model, values reinforce the principles by guiding how people respond to uncertainty, tension, and incomplete information. They ensure that adaptability is expressed not only through structure, but through everyday choices.
