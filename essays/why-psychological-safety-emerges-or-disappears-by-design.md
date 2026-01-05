@@ -1,8 +1,8 @@
-# Page 1
+# Why Psychological Safety Emerges — or Disappears — by Design
 
 Psychological safety is often discussed as a cultural attribute: something leaders should encourage, model, or promote.
 
-EmergentOS takes a different view.
+The Emergent Operating Model (EOM) takes a different view.
 
 In complex product environments, psychological safety is not something an organisation chooses to have.\
 It is something the operating system _permits_ or _suppresses_.
@@ -11,7 +11,7 @@ It is something the operating system _permits_ or _suppresses_.
 
 ### Behaviour Is Rational Within the System
 
-EmergentOS rests on a simple anchor:
+EOM rests on a simple anchor:
 
 > _People behave rationally within the constraints of the operating system they inhabit._
 
@@ -33,7 +33,7 @@ It fails because the system makes honesty unsafe.
 
 ### Psychological Safety as a System Property
 
-In EmergentOS, psychological safety is not a value, rule, or leadership behaviour.
+In the Emergent Operating Model, psychological safety is not a value, rule, or leadership behaviour.
 
 It is an **emergent property** of a system designed to learn.
 
@@ -56,9 +56,9 @@ Not because people were told to “be safe” — but because truth-telling redu
 
 ***
 
-### What EOS Does _Not_ Do
+### What EOM Does _Not_ Do
 
-EmergentOS does not mandate psychological safety.
+EOM does not mandate psychological safety.
 
 It does not prescribe:
 
@@ -69,7 +69,7 @@ It does not prescribe:
 
 Those interventions often fail precisely because they ignore the system producing the fear.
 
-EOS assumes a harder truth:
+EOM assumes a harder truth:
 
 > If people do not feel safe, the system is signalling a constraint that makes fear rational.
 
@@ -99,13 +99,13 @@ When they do not, no amount of rhetoric can compensate.
 
 This view is consistent with the research popularised by **The Fearless Organization**, which shows that fear suppresses learning and silence increases systemic risk.
 
-EmergentOS extends this thinking by explaining _why_ fear arises predictably — and how operating structures, not attitudes, determine whether speaking up is safe.
+The Emergent Operating Model extends this thinking by explaining _why_ fear arises predictably — and how operating structures, not attitudes, determine whether speaking up is safe.
 
 ***
 
 ### A Diagnostic, Not an Aspiration
 
-In EmergentOS, psychological safety is best treated as a **diagnostic signal**:
+In EOM, psychological safety is best treated as a **diagnostic signal**:
 
 * If people hide uncertainty, the system punishes learning.
 * If estimates are defended rather than questioned, commitment precedes evidence.
@@ -130,7 +130,7 @@ It emerges when the operating system:
 * aligns authority with accountability
 * makes curiosity safer than compliance
 
-EmergentOS does not ask organisations to _create_ psychological safety.
+The Emergent Operating Model does not ask organisations to _create_ psychological safety.
 
 It asks a more fundamental question:
 
