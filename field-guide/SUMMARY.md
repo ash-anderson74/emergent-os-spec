@@ -1,6 +1,6 @@
 # Table of contents
 
-* [How EmergentOS works in practice](README.md)
+* [How the Emergent Operating Model works in practice](README.md)
 * [Outcome-Oriented Strategy (Intent → Evidence)](01-outcome-oriented-strategy-from-intent-to-evidence.md)
 * [The Emergent OS Component Relationship Model](02-the-emergentos-component-relationship-model.md)
 * [Funding as a Learning System](03-funding-and-investment-as-a-learning-system.md)

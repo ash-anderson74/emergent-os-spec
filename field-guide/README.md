@@ -2,25 +2,25 @@
 description: From Patterns to an Operating System
 ---
 
-# How EmergentOS works in practice
+# How the Emergent Operating Model works in practice
 
-EmergentOS did not begin as a framework.
+The Emergent Operating Model (EOM) did not begin as a framework.
 
 It emerged from a repeated observation across decades of literature and practice:\
 **the same ideas, principles, and patterns appear again and again whenever organizations succeed under uncertainty**.
 
 These ideas surface in Lean, DevOps, product discovery, systems thinking, and modern organizational design. They are often introduced as isolated practices, adopted locally, or scaled mechanically—only to lose their effectiveness when removed from the conditions that made them work.
 
-EmergentOS exists to organize those recurring patterns into a **coherent operating model**, without freezing them into dogma.
+EOM exists to organize those recurring patterns into a **coherent operating model**, without freezing them into dogma.
 
 {% hint style="info" %}
-### How to read this guide
+#### How to read this guide
 
-This page is intentionally conceptual. It explains the operating logic behind EmergentOS.
+This page is intentionally conceptual. It explains the operating logic behind the Emergent Operating Model.
 
 Concrete examples and application guidance appear later in the Field Guide and in the Practice Playbooks.
 
-The Field Guide explains how EmergentOS works. It is illustrative, not prescriptive. The specification remains authoritative.
+The Field Guide explains how EOM works. It is illustrative, not prescriptive. The specification remains authoritative.
 
 See Specification → [README](https://app.gitbook.com/o/GRX8PFtV7EU1EpAUbqjk/s/P7hVMPA4YzkJRxvKPBHZ/)\
 See Specification → [Introduction](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/00-introduction)
@@ -74,7 +74,7 @@ Across different bodies of work, a small number of ideas recur with striking con
 
 These themes appear independently in different disciplines, using different language—but they describe the same underlying realities.
 
-EmergentOS treats these not as trends, but as **system-level facts**.
+The Emergent Operating Model treats these not as trends, but as **system-level facts**.
 
 ***
 
@@ -91,13 +91,13 @@ When practices are introduced without an operating system:
 
 The practice still exists, but the **conditions that made it effective do not**.
 
-EmergentOS addresses this by making the conditions explicit.
+The Emergent Operating Model addresses this by making the conditions explicit.
 
 ***
 
 ## EmergentOS as a Pattern Integrator
 
-Rather than prescribing a set of practices, EmergentOS defines:
+Rather than prescribing a set of practices, the Emergent Operating Model defines:
 
 * the assumptions an organization is making about uncertainty
 * the constraints under which practices must operate
@@ -106,7 +106,7 @@ Rather than prescribing a set of practices, EmergentOS defines:
 
 Practices are then selected, adapted, or discarded **in service of the system**, not the other way around.
 
-This is why EmergentOS feels familiar to experienced practitioners:
+This is why EOM feels familiar to experienced practitioners:
 
 * it does not introduce novel ideas
 * it connects existing ones more deliberately
@@ -115,7 +115,7 @@ This is why EmergentOS feels familiar to experienced practitioners:
 
 ## Practices as Contextual Expressions
 
-Within EmergentOS, practices are understood as **contextual expressions of deeper principles**.
+Within EOM, practices are understood as **contextual expressions of deeper principles**.
 
 For example:
 
@@ -169,13 +169,13 @@ The chapters that follow examine recurring pattern families, including:
 * continuous improvement and learning loops
 * team interaction and organizational design
 
-Each chapter connects concrete practices back to the principles and constraints defined by EmergentOS—without turning them into doctrine.
+Each chapter connects concrete practices back to the principles and constraints defined by the Emergent Operating Model—without turning them into doctrine.
 
 ***
 
 ## Closing Thought
 
-EmergentOS does not ask you to abandon what works.
+The Emergent Operating Model does not ask you to abandon what works.
 
 It asks you to **understand why it works**,\
 and to stop applying it in ways that undermine those conditions.
