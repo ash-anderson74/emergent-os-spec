@@ -4,35 +4,35 @@ Organizations building digital products increasingly operate in environments cha
 
 Many established delivery and governance models assume the opposite. They rely on predictive planning, centralized coordination, and early commitment to scope as primary mechanisms for control. While effective in low-uncertainty domains, these assumptions often fail in complex product environments, where learning—not execution efficiency—is the primary driver of progress.
 
-EmergentOS (EOS) is a **socio-technical operating system** designed for organizations working under these conditions.
+The Emergent Operating Model (EOM) specifies the **structure and logic of a socio-technical operating system** for organizations working under these conditions.
 
 It does not prescribe delivery methods, roles, tools, or ceremonies. Instead, it defines a coherent set of assumptions, constraints, and accountabilities that describe **how an organization must operate if it is to learn, adapt, and invest effectively in the presence of uncertainty**.
 
-EmergentOS treats strategy, funding, delivery, flow, learning, and governance as interdependent system concerns rather than isolated functions. Decisions in one area are expected to shape—and be shaped by—signals from the others.
+EOM treats strategy, funding, delivery, flow, learning, and governance as interdependent system concerns rather than isolated functions. Decisions in one area are expected to shape—and be shaped by—signals from the others.
 
 ***
 
-### What EmergentOS Is
+### What The Emergent Operating Model Is
 
-EmergentOS is a living specification for operating effectively in complex product environments.
+The Emergent Operating Model (EOM) is a living specification for an organisational operating system designed to function effectively in complex product environments.
 
 It defines:
 
-* how intent is framed as outcomes rather than scope
-* how investment follows learning rather than prediction
-* how flow is interpreted as a system signal rather than a target
-* how governance senses and adapts rather than enforces
-* how learning is treated as a first-class outcome of work
+* how intent is framed as **outcomes rather than scope**
+* how investment follows **learning rather than prediction**
+* how flow is interpreted as a **system signal rather than a target**
+* how governance **senses and adapts rather than enforces**
+* how learning is treated as a **first-class outcome of work**
 
-EmergentOS establishes **invariants** (conditions that must always hold if the system is to function as intended) and **constraints** (design boundaries that shape behaviour without prescribing practice), rather than implementation steps.
+EOM establishes **invariants**—conditions that must remain true if the system is to function as intended—and **constraints**—design boundaries that shape behaviour without prescribing practice.
 
-It provides a stable foundation against which teams and leaders can make contextual decisions, select compatible practices, and evaluate whether system behaviour remains aligned with stated intent.
+Rather than defining implementation steps, EOM provides a stable foundation against which teams and leaders can make contextual decisions, select compatible practices, and evaluate whether system behaviour remains aligned with stated intent.
 
 ***
 
-## What EmergentOS Is Not
+## What The Emergent Operating Model Is Not
 
-EmergentOS is not:
+The Emergent Operating Model (EOM) is not:
 
 * a delivery methodology
 * a transformation framework
@@ -46,7 +46,7 @@ It does not define how teams must work day-to-day, which tools to adopt, or whic
 
 ## How This Specification Is Intended to Be Used
 
-EmergentOS is used by:
+The Emergent Operating Model (EOM) is used by:
 
 * establishing shared assumptions about uncertainty, learning, and value
 * guiding strategic and investment decisions through explicit constraints
@@ -62,13 +62,13 @@ System behaviour is considered coherent when decisions, incentives, and feedback
 
 ## Scope
 
-EmergentOS is explicitly scoped for **complex, adaptive product environments** where:
+The Emergent Operating Model (EOM) is explicitly scoped for **complex, adaptive product environments** where:
 
 * outcomes cannot be predicted with confidence
 * learning is required to reduce uncertainty
 * value emerges through interaction and feedback
 
-Deterministic approaches may coexist with EmergentOS in low-uncertainty domains, but they are not treated as defaults within the scope of this specification.
+Deterministic approaches may coexist with the Emergent Operating Model in low-uncertainty domains, but they are not treated as defaults within the scope of this specification.
 
 ***
 
@@ -90,7 +90,7 @@ Patterns and decision records provide contextual guidance and rationale without 
 
 ## Intent
 
-EmergentOS exists to make organizational assumptions explicit.
+The Emergent Operating Model (EOM) exists to make organizational assumptions explicit.
 
 It does not promise certainty.\
 It enables learning.
