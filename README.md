@@ -1,20 +1,20 @@
-# EmergentOS
+# Emergent Operating Model
 
-> **Status:** EmergentOS v1 — Frozen Specification  
-> EmergentOS is stable. Evolution is governed by the policy defined in [EVOLUTION.md](./spec/EVOLUTION.md).
+> **Status:** Emergent Operating Model v1 — Frozen Specification  
+> Emergent Operating Model is stable. Evolution is governed by the policy defined in [EVOLUTION.md](./spec/EVOLUTION.md).
 
-EmergentOS (EOS) is a **non-prescriptive operating system for adaptability** in complex socio-technical environments.
+Emergent Operating Model (EOM) is a **non-prescriptive operating model for adaptability** in complex socio-technical environments.
 
 It synthesizes recurring patterns observed across Lean, DevOps, product discovery, and organizational design literature into a single, coherent operating model—without freezing those patterns into dogma.
 
-EmergentOS is not a framework, methodology, or maturity model.  
+Emergent Operating Model is not a framework, methodology, or maturity model.  
 It defines **constraints and operating logic**, not steps to follow.
 
 ---
 
-## What EmergentOS Is
+## What Emergent Operating Model Is
 
-EmergentOS is designed for organizations operating under uncertainty, where:
+Emergent Operating Model is designed for organizations operating under uncertainty, where:
 
 - outcomes cannot be predicted upfront
 - learning reduces risk more effectively than planning
@@ -22,7 +22,7 @@ EmergentOS is designed for organizations operating under uncertainty, where:
 - team autonomy must coexist with strategic alignment
 - governance must guide without controlling
 
-EOS provides:
+EOM provides:
 
 - a stable **specification** (what must remain true)
 - a **field guide** (how those ideas commonly show up)
@@ -32,9 +32,9 @@ EOS provides:
 
 ---
 
-## What EmergentOS Is Not
+## What Emergent Operating Model Is Not
 
-EmergentOS explicitly resists becoming:
+Emergent Operating Model explicitly resists becoming:
 
 - a delivery framework
 - a transformation methodology
@@ -43,7 +43,7 @@ EmergentOS explicitly resists becoming:
 - a checklist or “playbook factory”
 - a prescriptive scaling approach
 
-If you are looking for a framework to adopt or roll out, EmergentOS is probably not what you want.
+If you are looking for a framework to adopt or roll out, Emergent Operating Model is probably not what you want.
 
 ---
 
@@ -58,17 +58,17 @@ Start here:
 - [/spec/README.md](./spec/README.md)
 - [/spec/00-introduction.md](./spec/00-introduction.md)
 
-The specification defines the **constraints, principles, and boundaries** of EmergentOS.
+The specification defines the **constraints, principles, and boundaries** of Emergent Operating Model.
 
 ---
 
-### 🧭 If you want to understand how EmergentOS works in practice
+### 🧭 If you want to understand how Emergent Operating Model works in practice
 
 Start here:
 
 - [/field-guide/00-from-patterns-to-operating-system.md](/field-guide/00-from-patterns-to-operating-system.md)
 
-The Field Guide explains the **operating logic** behind EmergentOS and how recurring practices fit together—without prescribing them.
+The Field Guide explains the **operating logic** behind Emergent Operating Model and how recurring practices fit together—without prescribing them.
 
 ---
 
@@ -78,7 +78,7 @@ Explore:
 
 - [/field-guide/practice-playbooks](./field-guide/practice-playbooks)
 
-These playbooks provide **EOS-aligned guidance** for commonly used practices (e.g. OKRs, discovery, flow metrics, funding), including examples and anti-patterns.
+These playbooks provide **EOM-aligned guidance** for commonly used practices (e.g. OKRs, discovery, flow metrics, funding), including examples and anti-patterns.
 
 ---
 
@@ -92,7 +92,7 @@ Browse:
 Patterns describe **recurring system conditions**.  
 Anti-patterns describe **reliable failure modes**.
 
-Both are portable beyond EmergentOS.
+Both are portable beyond Emergent Operating Model.
 
 ---
 
@@ -102,7 +102,7 @@ See:
 
 - [/references](./references)
 
-EmergentOS is a synthesis, not an invention.
+Emergent Operating Model is a synthesis, not an invention.
 
 ---
 
@@ -112,13 +112,13 @@ Read:
 
 - [/essays](./essays/)
 
-Essays explain why EmergentOS deliberately avoids certain familiar levers (e.g. alignment theatre, prescriptive team models, maturity stages).
+Essays explain why Emergent Operating Model deliberately avoids certain familiar levers (e.g. alignment theatre, prescriptive team models, maturity stages).
 
 ---
 
 ## Versioning and Stability
 
-EmergentOS v1 is **frozen**.
+Emergent Operating Model v1 is **frozen**.
 
 - The specification is stable
 - Changes require evidence and discipline
@@ -157,8 +157,8 @@ License details are defined in the repository.
 
 ## Closing Note
 
-EmergentOS does not aim to be complete.
+Emergent Operating Model does not aim to be complete.
 
 It aims to be **coherent**.
 
-If you find yourself wishing it specified *what to do next*, that tension is intentional. EmergentOS exists to help organizations reason more clearly under uncertainty—not to remove the need for thinking.
+If you find yourself wishing it specified *what to do next*, that tension is intentional. Emergent Operating Model exists to help organizations reason more clearly under uncertainty—not to remove the need for thinking.
