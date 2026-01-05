@@ -9,7 +9,7 @@ Not mandatory. Not prescriptive. Context-sensitive.
 
 #### Purpose of the Quarterly Learning Cycle
 
-EmergentOS is not a framework of events or ceremonies.\
+The Emergent Operating Model (EOM) is not a framework of events or ceremonies.\
 It is a **learning system**.
 
 The quarterly cycle exists to:
@@ -29,7 +29,7 @@ Learning governs how the system adapts; customer value governs what the system e
 The underlying logic of this cycle — that systems must first change to permit learning, and then evolve based on that learning — is explored further in the essay **“**[**Learning Is How the System Changes Itself.**](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/learning-is-how-the-system-changes-itself)**”**
 
 The cadence of the cycle is deliberately slow enough to think and fast enough to adapt.\
-This principle is referred to in EmergentOS as **Slowification**.
+This principle is referred to in EOM as **Slowification**.
 
 ***
 
@@ -38,9 +38,9 @@ This principle is referred to in EmergentOS as **Slowification**.
 
 The concept of **Slowification**, understood as the intentional design of pauses, reflection, and structured time for learning, originates in **Gene Kim and Steven Spear’s work in&#x20;**_**Wiring the Winning Organization**_.
 
-Kim & Spear describe how high-performing, adaptive organizations deliberately create space for sensemaking, inspection, and organizational learning within the flow of work — even as they optimize for speed and reliability. Their framing influenced EmergentOS’s articulation of Slowification as a **strategic enabler of sustainable adaptability**.
+Kim & Spear describe how high-performing, adaptive organizations deliberately create space for sensemaking, inspection, and organizational learning within the flow of work — even as they optimize for speed and reliability. Their framing influenced the Emergent Operating Model’s articulation of Slowification as a **strategic enabler of sustainable adaptability**.
 
-EmergentOS adopts Slowification not as a prescriptive ritual, but as a **constraint on operating rhythm** that ensures:
+EOM adopts Slowification not as a prescriptive ritual, but as a **constraint on operating rhythm** that ensures:
 
 * strategic alignment has room to emerge,
 * discovery is resourced before delivery,
@@ -48,7 +48,7 @@ EmergentOS adopts Slowification not as a prescriptive ritual, but as a **constra
 * reflection is integrated into delivery cadence,
 * leadership engages with evidence over urgency.
 
-While the term and emphasis are drawn from _Wiring the Winning Organization_, EOS places Slowification within a broader context of value stream awareness, hypothesis-driven investment, and continuous learning loops.
+While the term and emphasis are drawn from _Wiring the Winning Organization_, EOM places Slowification within a broader context of value stream awareness, hypothesis-driven investment, and continuous learning loops.
 
 [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
 {% endhint %}
@@ -77,7 +77,7 @@ The quarterly cycle formalizes Slowification without turning it into ceremony.
 
 ## Overview: The Practice–Deliver–Reflect Cycle
 
-EmergentOS operates on a **quarterly learning loop** with three distinct phases:
+The Emergent Operating Model operates on a **quarterly learning loop** with three distinct phases:
 
 1. **Practice & Align** (Weeks 1–2)
 2. **Discover & Deliver** (Weeks 3–11)
@@ -92,7 +92,7 @@ Learning continues throughout.
 
 ![practice-deliver-reflect-cycle](../.gitbook/assets/eos-cycle.png)
 
-[Interpreting the EmergentOS Learning Cycle](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/interpreting-the-emergentos-learning-cycle)
+[Interpreting the Emergent Operating Model Learning Cycle](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/interpreting-the-emergentos-learning-cycle)
 
 ***
 
@@ -408,7 +408,7 @@ This cadence is not a process to follow.
 
 It is an **operating rhythm to internalize**.
 
-EmergentOS works not because of any single practice, but because learning, delivery, and improvement are composed into a single, continuous system.
+The Emergent Operating Model works not because of any single practice, but because learning, delivery, and improvement are composed into a single, continuous system.
 
 Slowification makes that system sustainable.
 
