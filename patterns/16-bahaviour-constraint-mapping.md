@@ -167,9 +167,9 @@ These approaches violate the EOS anchor.
 
 ***
 
-## EOS Alignment
+## EOM Alignment
 
-This pattern directly enacts the core EOS principle:
+This pattern directly enacts the core EOM principle:
 
 > **To change behaviour, you must change the system that makes that behaviour rational.**
 
@@ -205,4 +205,4 @@ Once that is understood, change becomes possible — and often inevitable.
 
 ***
 
-EOS operators may use the [facilitation guide](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/08-behaviour-constraint-mapping-in-practice) to apply this pattern in practice.
+EOM operators may use the [facilitation guide](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/08-behaviour-constraint-mapping-in-practice) to apply this pattern in practice.
