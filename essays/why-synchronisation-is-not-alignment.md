@@ -50,7 +50,7 @@ The result is apparent alignment paired with growing system incoherence.
 
 ### What Alignment Actually Is
 
-In EmergentOS, alignment does not mean doing the same thing at the same time.
+In the Emergent Operating Model (EOM), alignment does not mean doing the same thing at the same time.
 
 Alignment means:
 
@@ -71,7 +71,7 @@ It emerges when:
 
 ### Alignment Without Synchronisation
 
-EOS allows teams to operate asynchronously while remaining aligned by:
+EOM allows teams to operate asynchronously while remaining aligned by:
 
 * anchoring decisions in outcomes rather than schedules
 * using flow and learning signals instead of milestones
@@ -100,7 +100,7 @@ What looks like control is often just **delay with structure**.
 Synchronisation is a tool.\
 Alignment is a property of the system.
 
-EmergentOS refuses to equate the two.
+The Emergent Operating Model refuses to equate the two.
 
 It seeks alignment through shared intent, learning, and constraints — not through calendars.
 
