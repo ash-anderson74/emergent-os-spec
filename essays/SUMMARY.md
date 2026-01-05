@@ -21,4 +21,4 @@
 * [Reading the EOM Component Relationship Model](reading-the-emergentos-component-relationship-model.md)
 * [Interpreting the Emergent Operating Model Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [Why EOM Refuses to Orchestrate Time](why-eos-refuses-to-orchestrate-time.md)
-* [A Conversation Between a SAFe Practitioner and an EOS Operator](safesceptic-vs-eos-operator.md)
+* [A Conversation Between a SAFe Practitioner and an EOM Operator](safesceptic-vs-eos-operator.md)
