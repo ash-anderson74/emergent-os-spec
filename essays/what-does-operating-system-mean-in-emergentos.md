@@ -35,7 +35,7 @@ If you are looking for a defined future state to migrate toward, EOM is the wron
 
 ***
 
-### Why Use the Term “Operating Model” at All?
+### Why Use the Term “Operating Model” at all?
 
 The term is used because it names something most approaches leave implicit.
 
