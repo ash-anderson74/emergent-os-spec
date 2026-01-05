@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EmergentOS](README.md)
+* [The Emergent Operating Model](README.md)
 * [Introduction](00-introduction.md)
 * [Values](01-values.md)
 * [Principles](02-principles.md)
