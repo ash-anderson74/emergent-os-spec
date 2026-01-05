@@ -7,15 +7,15 @@ Not mandatory. Not prescriptive. Context-sensitive.
 
 ***
 
-## Purpose of Flow Metrics in EmergentOS
+## Purpose of Flow Metrics in the Emergent Operating Model
 
-In EmergentOS, flow metrics exist to **help the organization see itself**.
+In the Emergent Operating Model (EOM), flow metrics exist to **help the organization see itself**.
 
 They are not performance targets.\
 They are not productivity measures.\
 They are not delivery commitments.
 
-EOS uses flow metrics to:
+EOM uses flow metrics to:
 
 * detect systemic constraints
 * reveal delayed learning
@@ -32,7 +32,7 @@ When treated as diagnostics, they accelerate learning.
 **Lineage note**
 
 The flow metrics referenced here (Flow Time, Flow Efficiency, Flow Load, Flow Distribution, and Flow Predictability) are drawn from Mik Kersten’s work in _Project to Product_.\
-EmergentOS adopts these metrics as **diagnostic signals**, not performance targets, and explicitly avoids their use as deterministic controls.
+The Emergent Operating Model adopts these metrics as **diagnostic signals**, not performance targets, and explicitly avoids their use as deterministic controls.
 
 [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
 {% endhint %}
@@ -64,7 +64,7 @@ Flow metrics create **shared, observable evidence** of how work actually moves.
 
 ## Core Assumptions (Required for Flow Metrics to Work)
 
-Flow metrics in EOS assume:
+Flow metrics in EOM assume:
 
 1. Delays are systemic, not individual
 2. Queues amplify risk and uncertainty
@@ -78,7 +78,7 @@ If metrics are used to judge people, they will be gamed.
 
 ## The Core Flow Metrics (Conceptual, Not Mandatory)
 
-EmergentOS commonly examines metrics that describe:
+The Emergent Operating Model commonly examines metrics that describe:
 
 * **Flow Time** – how long work takes end to end
 * **Flow Efficiency** – time actively worked vs waiting
@@ -100,7 +100,7 @@ Escalations are common. Delivery pressure increases.
 
 ***
 
-### EOS-Aligned Outcome Framing
+### EOM-Aligned Outcome Framing
 
 **Who / Does What / By How Much**
 
@@ -121,14 +121,14 @@ This frames delay as a **system problem**, not a performance issue.
 
 ***
 
-### EOS-Aligned Interpretation
+### EOM-Aligned Interpretation
 
 The problem is not speed.\
 The problem is **too much work in progress and poorly designed interfaces**.
 
 ***
 
-### EOS-Aligned Improvement Hypothesis
+### EOM-Aligned Improvement Hypothesis
 
 If WIP is reduced and decision latency constrained, flow time will decrease without increasing pressure.
 
@@ -163,7 +163,7 @@ Teams are “too busy delivering.”
 
 ***
 
-### EOS-Aligned Outcome Framing
+### EOM-Aligned Outcome Framing
 
 * **Teams** allocate **at least 20% of flow** to improvement work consistently
 * **Recurring constraints** resolved faster quarter over quarter
@@ -179,13 +179,13 @@ Teams are “too busy delivering.”
 
 ***
 
-### EOS-Aligned Interpretation
+### EOM-Aligned Interpretation
 
 This is a **system starvation pattern**, not a team choice.
 
 ***
 
-### EOS-Aligned Experiment
+### EOM-Aligned Experiment
 
 * Explicitly visualize work types
 * Limit feature WIP
@@ -216,7 +216,7 @@ Initiatives rarely stop once started.
 
 ***
 
-### EOS-Aligned Outcome Framing
+### EOM-Aligned Outcome Framing
 
 * **Active initiatives** reduced from 18 to under 10
 * **Initiatives stalled >30 days** reduced by 60%
@@ -232,14 +232,14 @@ Initiatives rarely stop once started.
 
 ***
 
-### EOS-Aligned Interpretation
+### EOM-Aligned Interpretation
 
 The constraint is not delivery capacity.\
 It is **investment overload and delayed decisions**.
 
 ***
 
-### EOS-Aligned Intervention
+### EOM-Aligned Intervention
 
 * Visualize portfolio flow
 * Introduce WIP limits at initiative level
@@ -266,7 +266,7 @@ It is **investment overload and delayed decisions**.
 
 ## How Flow Metrics Interact with OKRs
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * OKRs define **why** work exists
 * Flow metrics reveal **how** work behaves
@@ -343,7 +343,7 @@ Incorrect conclusions.
 
 ***
 
-## Signals of Healthy Flow Metric Usage in EOS
+## Signals of Healthy Flow Metric Usage in EOM
 
 Flow metrics are helping when:
 
@@ -389,6 +389,6 @@ Flow metrics do not tell you how to improve.
 
 They tell you **where learning is blocked**.
 
-EmergentOS treats flow as a diagnostic instrument\
+The Emergent Operating Model treats flow as a diagnostic instrument\
 because you cannot improve what you do not understand—\
 and you cannot understand a system by pressuring its parts.
