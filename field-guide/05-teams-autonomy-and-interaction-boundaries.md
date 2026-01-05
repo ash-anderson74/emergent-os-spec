@@ -4,12 +4,12 @@ Autonomy is frequently treated as an intrinsic good.
 
 Organizations decentralize decision-making, flatten hierarchies, and empower teams—only to discover fragmentation, misalignment, and mounting coordination costs.
 
-EmergentOS treats autonomy not as a goal, but as a **system property that must be designed and constrained**.
+The Emergent Operating Model (EOM) treats autonomy not as a goal, but as a **system property that must be designed and constrained**.
 
 ***
 
 {% hint style="info" %}
-#### **A Note on Cross-Functional Product Teams**
+**A Note on Cross-Functional Product Teams**
 
 Across the contemporary literature on product development, DevOps, and organizational design, a consistent pattern emerges: **small, empowered, cross-functional teams with clear end-to-end ownership** outperform functionally siloed structures in environments characterized by uncertainty, complexity, and rapid change.
 
@@ -40,7 +40,7 @@ The failure is **lack of boundaries**.
 
 ## Autonomy as Outcome Ownership
 
-In EmergentOS, autonomy is explicitly tied to **outcome ownership**.
+In the Emergent Operating Model, autonomy is explicitly tied to **outcome ownership**.
 
 Teams are autonomous over:
 
@@ -66,7 +66,7 @@ Boundaries provide:
 * predictability
 * reduced coordination cost
 
-EmergentOS recognizes several boundary types that must be shaped deliberately.
+EOM recognizes several boundary types that must be shaped deliberately.
 
 ***
 
@@ -122,7 +122,7 @@ Architecture either enables autonomy—or quietly prevents it.
 
 Not all decisions should be decentralized.
 
-EmergentOS distinguishes between:
+The Emergent Operating Model distinguishes between:
 
 * **reversible decisions**, which favor local autonomy
 * **irreversible or high-impact decisions**, which require broader coordination
@@ -150,7 +150,7 @@ The distinction lies in **who sets direction versus who serves needs**.
 
 ## Coordination Without Central Control
 
-EmergentOS favors coordination mechanisms that:
+The Emergent Operating Model favors coordination mechanisms that:
 
 * rely on transparency
 * are pull-based rather than push-based
@@ -209,7 +209,7 @@ Autonomy is not the absence of constraint.
 
 It is the presence of the **right constraints**.
 
-EmergentOS does not attempt to scale autonomy by encouraging independence.\
+The Emergent Operating Model does not attempt to scale autonomy by encouraging independence.\
 It scales autonomy by **designing boundaries that make independence safe**.
 
 Without boundaries, autonomy collapses.\
