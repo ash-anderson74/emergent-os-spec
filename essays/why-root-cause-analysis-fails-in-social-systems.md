@@ -5,7 +5,7 @@ It often fails in social systems.
 
 This failure is not due to poor technique or lack of rigour. It occurs because the underlying assumptions of root cause thinking do not hold when people, incentives, and power structures are involved.
 
-EmergentOS treats this not as a tooling problem, but as a category error.
+The Emergent Operating Model (EOM) treats this not as a tooling problem, but as a category error.
 
 ***
 
@@ -110,7 +110,7 @@ As a result:
 
 ### Behaviour Is Not the Failure Mode
 
-EmergentOS starts from a different premise:
+The Emergent Operating Model starts from a different premise:
 
 > Persistent behaviour is a signal of system design.
 
@@ -146,7 +146,7 @@ It looks for conditions to change.
 
 ### Constraint Mapping Instead of Root Cause Analysis
 
-Rather than tracing a linear chain of causes, EmergentOS applies **Behaviour → Constraint Mapping**.
+Rather than tracing a linear chain of causes, EOM applies **Behaviour → Constraint Mapping**.
 
 This approach:
 
@@ -183,7 +183,7 @@ That requires abandoning the illusion that problems have single roots.
 
 Root cause analysis fails in social systems not because it is poorly executed, but because it seeks certainty where interaction dominates.
 
-EmergentOS replaces root cause thinking with constraint awareness.
+The Emergent Operating Model replaces root cause thinking with constraint awareness.
 
 It does not ask:
 
