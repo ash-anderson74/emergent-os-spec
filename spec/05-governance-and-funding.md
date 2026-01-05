@@ -11,7 +11,7 @@ Their purpose is to:
 * reduce risk in uncertain environments
 * maintain coherence without constraining local autonomy
 
-Governance and funding exist to **shape system behaviour**, not to enforce compliance or predict results.
+Governance and funding exist to **shape system behaviour**, not to enforce compliance or manufacture certainty.
 
 ***
 
@@ -26,7 +26,7 @@ Governance activities focus on:
 * supporting learning and adaptation
 * reallocating attention and investment based on evidence
 
-Decision authority is decentralized as far as possible and centralized only where necessary to maintain strategic coherence, financial stewardship, or architectural integrity.
+Decision authority is decentralized as far as possible and centralized only where necessary to maintain strategic coherence, financial stewardship, or architectural integrity and only for as long as that need persists.
 
 Governance does not prescribe delivery practices, organizational structures, or implementation detail.
 
