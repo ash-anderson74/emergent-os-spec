@@ -24,3 +24,4 @@
 * [Interpreting the Emergent Operating Model Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [Why EOM Refuses to Orchestrate Time](why-eos-refuses-to-orchestrate-time.md)
 * [A Conversation Between a SAFe Practitioner and an EOM Operator](safesceptic-vs-eos-operator.md)
+* [A Boardroom Dialogue on Business Agility and Systemic Change](a-boardroom-dialogue-on-business-agility-and-systemic-change.md)
