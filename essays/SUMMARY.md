@@ -15,6 +15,7 @@
 * [Learning and Value in the Emergent Operating Model](learning-and-value-in-emergentos.md)
 * [Why Outcomes Invite Learning — and Outputs Suppress It](why-outcomes-invite-learning-and-outputs-suppress-it.md)
 * [OKRs, KPIs, and Value Delivery in an Emergent System](okrs-kpis-and-value-delivery-in-an-emergent-system.md)
+* [Adaptive Funding Under Uncertainty](adaptive-funding-under-uncertainty.md)
 * [Risk, Certainty, and the Illusion of Control](risk-certainty-and-the-illusion-of-control.md)
 * [How the Emergent Operating Model Avoids the Illusion of Alignment](how-eos-avoids-the-illusion-of-alignment.md)
 * [Why Synchronisation Is Not Alignment](why-synchronisation-is-not-alignment.md)
