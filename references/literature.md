@@ -21,10 +21,9 @@ The following works have informed the principles, assumptions, and patterns desc
 * Pereira, S. and Davis, A.\
   &#xNAN;_&#x46;low Engineering._\
   IT Revolution, 2024.
-*   Meadows, D.H.\
-    &#xNAN;_&#x54;hinking in Systems: A Primer_.&#x20;
-
-    Chelsea Green Publishing, 2008.‌
+* Meadows, D.H.\
+  &#xNAN;_&#x54;hinking in Systems: A Primer_. \
+  Chelsea Green Publishing, 2008.‌
 
 ***
 
