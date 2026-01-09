@@ -15,6 +15,7 @@
 * [Learning Is How the System Changes Itself](learning-is-how-the-system-changes-itself.md)
 * [Learning and Value in the Emergent Operating Model](learning-and-value-in-emergentos.md)
 * [Why Outcomes Invite Learning — and Outputs Suppress It](why-outcomes-invite-learning-and-outputs-suppress-it.md)
+* [Seeking the Right Thing: Outcomes as Constraints in an Emergent Operating Model](seeking-the-right-thing-outcomes-as-constraints-in-an-emergent-operating-model.md)
 * [OKRs, KPIs, and Value Delivery in an Emergent System](okrs-kpis-and-value-delivery-in-an-emergent-system.md)
 * [Adaptive Funding Under Uncertainty](adaptive-funding-under-uncertainty.md)
 * [Risk, Certainty, and the Illusion of Control](risk-certainty-and-the-illusion-of-control.md)
