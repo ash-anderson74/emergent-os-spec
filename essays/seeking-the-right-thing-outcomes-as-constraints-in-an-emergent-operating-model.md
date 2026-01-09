@@ -1,3 +1,7 @@
+---
+description: 'An application of the EOM principle: Outcomes as constraints, not targets.'
+---
+
 # Seeking the Right Thing: Outcomes as Constraints in an Emergent Operating Model
 
 In _Thinking in Systems_, Donella Meadows describes a systems trap she calls **“Seeking the Wrong Thing.”**\
