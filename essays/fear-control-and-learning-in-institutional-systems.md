@@ -18,7 +18,7 @@ This essay explores:
 
 * why control systems dominate over learning systems
 * why metric-based bonuses distort behaviour even when intentions are good
-* how metered funding restores learning without threatening institutional stability
+* how adaptive funding restores learning without threatening institutional stability
 * what a learning-centred bonus scheme looks like when outcomes are uncertain and employment is permanent
 
 ***
@@ -89,9 +89,9 @@ It is systems behaviour.
 
 ***
 
-### 4. Why metered funding is resisted
+### 4. Why adaptive funding is resisted
 
-Metered funding replaces control with learning, and irreversibility with choice.
+Adaptive funding replaces control with learning, and irreversibility with choice.
 
 It does three destabilising things simultaneously:
 
@@ -104,7 +104,7 @@ It does three destabilising things simultaneously:
 
 Control systems exist largely to avoid these moments.
 
-Resistance to metered funding is therefore not about effort or complexity — it is about **exposure**.
+Resistance to adaptive funding is therefore not about effort or complexity — it is about **exposure**.
 
 ***
 
@@ -275,7 +275,7 @@ Most importantly:
 Control systems feel safe.\
 Learning systems _are_ safe — but only for organisations willing to trade certainty for resilience.
 
-Metered funding, learning-aligned bonuses, and EOM governance do not remove accountability.\
+Adaptive funding, learning-aligned bonuses, and EOM governance do not remove accountability.\
 They relocate it — from outcomes we cannot predict to behaviours we can observe.
 
 **That is the only form of accountability that survives complexity.**
