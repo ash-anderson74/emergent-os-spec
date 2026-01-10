@@ -30,3 +30,4 @@
 * [A Boardroom Dialogue on Business Agility and Systemic Change](a-boardroom-dialogue-on-business-agility-and-systemic-change.md)
 * [The Regularities Emergent Operating Model Aligns With](the-regularities-emergent-operating-model-aligns-with.md)
 * [Known Features Do Not Make Delivery Predictable](known-features-do-not-make-delivery-predictable.md)
+* [Why Feature Roadmaps Feel Safer Than They Are](why-feature-roadmaps-feel-safer-than-they-are.md)
