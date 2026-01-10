@@ -18,6 +18,7 @@
 * [Pattern: Meaningful Measurement](14-measure-what-matters.md)
 * [Pattern: Coaching Culture](15-coaching-culture.md)
 * [Pattern: Behaviour to Constraint Mapping](16-bahaviour-constraint-mapping.md)
+* [Pattern: Known Features, Unknown Delivery](pattern-known-features-unknown-delivery.md)
 * [Anti-Patterns](anti-patterns/README.md)
   * [Anti-Pattern: Predictive Control in Uncertainty](anti-patterns/anti-pattern-predictive-control-in-uncertainty.md)
   * [Anti-Pattern: Budget as Constraint on Learning](anti-patterns/anti-pattern-budget-as-constraint-on-learning.md)
