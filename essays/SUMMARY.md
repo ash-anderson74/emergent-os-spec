@@ -24,6 +24,7 @@
 * [Why Synchronisation Is Not Alignment](why-synchronisation-is-not-alignment.md)
 * [Known Features Do Not Make Delivery Predictable](known-features-do-not-make-delivery-predictable.md)
 * [Why Feature Roadmaps Feel Safer Than They Are](why-feature-roadmaps-feel-safer-than-they-are.md)
+* [Planning Without Lying to Yourself](planning-without-lying-to-yourself.md)
 * [Why Team Structure Emerges from Constraints](why-team-structure-emerges-from-constraints.md)
 * [Reading the EOM Component Relationship Model](reading-the-emergentos-component-relationship-model.md)
 * [Interpreting the Emergent Operating Model Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
