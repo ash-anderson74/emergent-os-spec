@@ -18,6 +18,7 @@
   * [Playbook: Quarterly Learning Cycle](practice-playbooks/99-the-emergentos-quarterly-learning-cycle.md)
 * [Diagnostics](diagnostics/README.md)
   * [Diagnostic: Incremental & Reversible Commitment](diagnostics/diagnostic-incremental-and-reversible-commitment.md)
+  * [Diagnostic: Public Commitment & Narrative Debt](diagnostics/diagnostic-public-commitment-and-narrative-debt.md)
   * [Diagnostic: Detecting Outcome-Wrapped Feature Plans](diagnostics/detecting-outcome-wrapped-feature-plans.md)
 * [Facilitation Guides](facilitation-guides/README.md)
   * [Facilitating Executive Learning Boundaries](facilitation-guides/facilitating-executive-learning-boundaries.md)
