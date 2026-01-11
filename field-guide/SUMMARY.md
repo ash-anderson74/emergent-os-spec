@@ -17,3 +17,4 @@
   * [Playbook: Lean Kata for System Improvement](practice-playbooks/04-lean-kata-for-system-level-improvement.md)
   * [Playbook: Continuous Discovery](practice-playbooks/05-continuous-discovery-in-emergentos.md)
   * [Playbook: Quarterly Learning Cycle](practice-playbooks/99-the-emergentos-quarterly-learning-cycle.md)
+* [Diagnostics](diagnostics/README.md)
