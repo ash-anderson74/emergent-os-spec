@@ -214,3 +214,9 @@ Incremental commitment creates **ongoing control through informed choice**.
 If that question feels uncomfortable, it is pointing directly at the constraint that must change.
 
 That is where EOM work begins.
+
+***
+
+### Facilitation Guide
+
+[Facilitating Executive Learning Boundaries](../facilitation-guides/facilitating-executive-learning-boundaries.md)
