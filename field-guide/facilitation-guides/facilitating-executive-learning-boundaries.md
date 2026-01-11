@@ -262,11 +262,11 @@ That is sufficient.
 
 ## Linkages
 
-* Pair with: **Incremental & Reversible Commitment (Executive Diagnostic)**
+* Pair with: [**Incremental & Reversible Commitment (Executive Diagnostic)**](../diagnostics/diagnostic-incremental-and-reversible-commitment.md)
 * Related essays:
-  * _Why Feature Roadmaps Feel Safer Than They Are_
-  * _Fear, Control, and Learning in Institutional Systems_
-  * _Why Behaviour Follows Systems_
+  * [_Why Feature Roadmaps Feel Safer Than They Are_](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/why-feature-roadmaps-feel-safer-than-they-are)
+  * [_Fear, Control, and Learning in Institutional Systems_](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/fear-control-and-learning-in-institutional-systems)
+  * [_Why Behaviour Follows Systems_](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/why-behaviour-follows-systems)
 
 ***
 
