@@ -20,5 +20,5 @@
   * [Diagnostic: Incremental & Reversible Commitment](diagnostics/diagnostic-incremental-and-reversible-commitment.md)
   * [Diagnostic: Detecting Outcome-Wrapped Feature Plans](diagnostics/detecting-outcome-wrapped-feature-plans.md)
 * [Facilitation Guides](facilitation-guides/README.md)
-  * [Facilitating Executive Learning Boundaries](facilitating-executive-learning-boundaries.md)
-  * [Facilitation Guide: Behaviour Constraint Mapping in Practice](behaviour-constraint-mapping-in-practice.md)
+  * [Facilitating Executive Learning Boundaries](facilitation-guides/facilitating-executive-learning-boundaries.md)
+  * [Facilitation Guide: Behaviour Constraint Mapping in Practice](facilitation-guides/behaviour-constraint-mapping-in-practice.md)
