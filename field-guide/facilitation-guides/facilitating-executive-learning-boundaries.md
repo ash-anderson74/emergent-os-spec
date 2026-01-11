@@ -12,7 +12,7 @@ This facilitation guide supports a structured executive conversation about **whe
 
 It is designed to accompany the diagnostic:
 
-> **Incremental & Reversible Commitment (Executive Diagnostic)**
+> [**Incremental & Reversible Commitment (Executive Diagnostic)**](../diagnostics/diagnostic-incremental-and-reversible-commitment.md)
 
 This session does not aim to:
 
