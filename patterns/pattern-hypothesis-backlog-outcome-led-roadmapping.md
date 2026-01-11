@@ -220,10 +220,9 @@ This pattern applies where **uncertainty is structural, not accidental**.
 ### Related Patterns and Essays
 
 * _Why Feature Roadmaps Feel Safer Than They Are_
-* _Outcomes as Constraints, Not Targets_
-* _Learning Governs Behaviour_
-* _Incremental and Reversible Commitment_
-* _Flow as a Diagnostic, Not a Goal_
+* _Seeking the Right Thing: Outcomes as Constraints in an Emergent Operating Model_
+* _From Legacy Control to Learning Systems_
+* _Flow First_
 
 ***
 
