@@ -24,6 +24,9 @@ The following works have informed the principles, assumptions, and patterns desc
 * Meadows, D.H.\
   &#xNAN;_&#x54;hinking in Systems: A Primer_. \
   Chelsea Green Publishing, 2008.‌
+* Senge, P.M.\
+  &#xNAN;_&#x54;he Fifth Discipline: the Art and Practice of the Learning Organization_. \
+  Doubleday, 1990.
 
 ***
 
