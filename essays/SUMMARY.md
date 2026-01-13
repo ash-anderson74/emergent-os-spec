@@ -34,7 +34,6 @@
 * [Why Feature Roadmaps Feel Safer Than They Are](why-feature-roadmaps-feel-safer-than-they-are.md)
 * [Planning Without Lying to Yourself](planning-without-lying-to-yourself.md)
 * [Why Product Managers Should Stop “Managing Dependencies”](outcomes-flow-and-predictability/why-product-managers-should-stop-managing-dependencies.md)
-* [Why Dependency Sequencing Feels Responsible — and Usually Isn’t](outcomes-flow-and-predictability/why-dependency-sequencing-feels-responsible-and-usually-isnt.md)
 
 ## Fear, Control, and Defensibility
 
