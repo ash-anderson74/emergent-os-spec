@@ -136,7 +136,7 @@ If the answer is “nothing”, the system is probably constraining learning —
 
 ***
 
-#### How This Should Be Used
+### How This Should Be Used
 
 * As a _conversation guide_, not a form
 * As a _diagnostic_, not a standard
