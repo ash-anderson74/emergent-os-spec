@@ -273,4 +273,4 @@ It is **planning that respects complexity**.
 
 ### How To Diagnose This Pattern
 
-* Diagnostic: Dependency Sequencing as a Control Illusion
+* [Diagnostic: Dependency Sequencing as a Control Illusion](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/diagnostics/diagnostic-dependency-sequencing-as-a-control-illusion)
