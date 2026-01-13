@@ -20,6 +20,7 @@
 
 ## Learning as the Governing Mechanism
 
+* [What Is Learning in a Complex Adaptive Product System?](learning-as-the-governing-mechanism/what-is-learning-in-a-complex-adaptive-product-system.md)
 * [Learning Is How the System Changes Itself](learning-is-how-the-system-changes-itself.md)
 * [How To Design a System Where Learning Governs Behaviour](how-to-design-a-system-where-learning-governs-behaviour.md)
 * [Learning and Value in the Emergent Operating Model](learning-and-value-in-emergentos.md)
