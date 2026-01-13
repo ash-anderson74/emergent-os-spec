@@ -252,11 +252,290 @@ the plan often becomes simpler — without anyone having to manage it.
 
 ***
 
+### A Worked Example: Migration Without Deterministic Sequencing
+
+**Context**
+
+An organisation is building a new product to replace a legacy system.
+
+The strategic intent is displacement, not coexistence.\
+Much of the required functionality is known:
+
+* payments must work
+* customer data must migrate
+* downstream integrations must remain stable
+* regulatory obligations must still be met
+
+On the surface, this appears predictable.
+
+As a result, the initial planning approach looks familiar:\
+features are identified, sized, sequenced, and assigned to teams, with dependencies mapped between them.
+
+From an EOM perspective, this is where risk quietly accumulates.
+
+***
+
+#### The “Managed Dependency” Approach
+
+In a traditional plan, dependencies are handled by coordination:
+
+* Team A builds the new payment service
+* Team B migrates customer accounts
+* Team C updates reporting integrations
+* Each dependency is scheduled in the right order
+* Risks are recorded and reviewed
+* Confidence is derived from the completeness of the plan
+
+Nothing in this is obviously wrong.
+
+The problem is that **most of the risk has been translated into time**, not eliminated.
+
+Key questions remain unanswered:
+
+* Will the new payment flow behave correctly under real load?
+* Are data assumptions between systems actually compatible?
+* Do regulatory edge cases behave the same in the new architecture?
+* How reversible is the migration if something subtle breaks?
+
+These uncertainties are acknowledged — but deferred.
+
+***
+
+#### The Provoked Dependency Approach
+
+Under EOM, the PM reframes the problem.
+
+Instead of asking:
+
+> “How do we sequence all this work safely?”
+
+They ask:
+
+> **“Which dependency contains the most uncertainty — and how can we expose it cheaply?”**
+
+In this case, the riskiest dependency is not _building_ payments.
+
+It is **running real customer transactions across both systems safely**.
+
+So instead of sequencing features, the PM designs an early exposure:
+
+* one payment path
+* one customer cohort
+* one integration
+* strict blast-radius limits
+* explicit reversal conditions
+
+This forces several dependencies to surface immediately:
+
+* architectural coupling
+* data compatibility assumptions
+* operational behaviour under real use
+* organisational response to partial migration
+
+Importantly, none of this requires “finishing” the system.
+
+Learning arrives before commitment.
+
+***
+
+#### What Changes Systemically
+
+This provocation produces uncomfortable outcomes early:
+
+* estimates become obviously unreliable
+* sequencing assumptions unravel
+* some planned work is no longer relevant
+* new constraints become visible
+* confidence becomes conditional rather than performative
+
+From the outside, this can look like chaos.
+
+From the system’s perspective, it is risk collapsing while it is still cheap.
+
+***
+
+#### The PM’s Role in This Shift
+
+The PM did not:
+
+* abandon planning
+* let teams act independently
+* ignore dependencies
+
+They did something more difficult:
+
+* resisted the false safety of complete roadmaps
+* chose exposure over reassurance
+* treated dependencies as learning surfaces, not scheduling artefacts
+* protected the organisation from narrative debt
+
+The result is not less control.
+
+It is **control grounded in evidence rather than assumption**.
+
+***
+
+#### Why This Matters
+
+Had the dependencies been “managed”, the organisation would have learned the same things — later, under higher pressure, with fewer options.
+
+By provoking them, the PM changed **when** the organisation learned — and therefore **how much freedom it retained**.
+
+This is the difference EOM cares about.
+
+***
+
+### Which Teams Do What and When?
+
+The question:
+
+> _“Which teams do what and when?”_
+
+exists because traditional planning assumes two things:
+
+1. Work can be decomposed cleanly into independent slices
+2. Dependencies should be minimised by sequencing work over time
+
+In **complex product systems**, both assumptions are often false **early on**.
+
+EOM’s claim is not that teams shouldn’t coordinate — it’s that **sequencing uncertainty doesn’t remove it; it postpones it**.
+
+***
+
+### What EOM is _not_ suggesting
+
+Let’s rule out misunderstandings first.
+
+EOM is **not** suggesting:
+
+* permanent team overlap
+* everyone working on everything
+* abandoning team boundaries
+* dissolving accountability
+* “just collaborate more”
+
+That _would_ be chaos.
+
+***
+
+### What is actually being suggested
+
+#### 1. Temporary convergence is sometimes the _cheapest_ way to learn
+
+When a dependency is both:
+
+* high-risk, **and**
+* highly uncertain
+
+…then trying to sequence it cleanly often _increases_ cost.
+
+Why?
+
+Because sequencing assumes knowledge that doesn’t yet exist.
+
+In those cases, EOM prefers **deliberate, time-boxed convergence**:
+
+* multiple teams focus on the _same thin slice_
+* long enough to expose reality
+* short enough to avoid structural drift
+
+This is not a delivery model.\
+It is a **learning intervention**.
+
+***
+
+#### 2. Teams still have roles — but not queue positions
+
+In your example:
+
+* Team A (payments)
+* Team B (migration)
+* Team C (integrations)
+
+Under deterministic planning:
+
+* Team A “goes first”
+* Team B “waits”
+* Team C “prepares”
+
+Under an EOM learning-first move:
+
+* Team A brings deep domain knowledge
+* Team B brings data and customer transition concerns
+* Team C brings operational and downstream risk awareness
+
+They **co-own the learning**, not the output.
+
+This doesn’t dissolve accountability — it **temporarily re-centres it around the risk**.
+
+***
+
+#### 3. After learning, teams _diverge again_
+
+This is critical.
+
+Once the risky dependency is exposed:
+
+* assumptions harden into knowledge
+* architecture boundaries clarify
+* estimates improve
+* sequencing becomes meaningful
+
+At that point:
+
+* teams split back into coherent ownership
+* work becomes parallel again
+* roadmaps become _earned_, not speculative
+
+**Convergence is a phase, not a state.**
+
+***
+
+### Why this feels wrong (and why that matters)
+
+Most organisations optimise for:
+
+* utilization
+* predictability
+* clean swimlanes
+* no “duplication of effort”
+
+But in uncertainty:
+
+* utilization hides risk
+* predictability is performative
+* clean swimlanes delay truth
+* some “duplication” is actually shared sense-making
+
+EOM is explicit about this trade-off:
+
+> **You either pay for learning with overlap early, or with rework and failure later.**
+
+Sequencing often chooses the second — quietly.
+
+***
+
+### A useful reframing for PMs
+
+Instead of asking:
+
+> _“Which team should do this first?”_
+
+EOM encourages PMs to ask:
+
+> **“Which teams must be present for this decision to be reversible later?”**
+
+If the answer is “more than one”, early convergence is a signal — not a planning failure.
+
+***
+
 ### In Closing
 
 Dependencies do not become manageable when they are documented.
 
 They become manageable when they are **experienced early, cheaply, and deliberately**.
+
+In high-uncertainty work, the goal is not to assign tasks cleanly, but to **concentrate the right expertise around risk early**, then return teams to clear ownership once learning makes sequencing meaningful.
 
 When PMs are allowed to shift from dependency management to dependency exposure:
 
