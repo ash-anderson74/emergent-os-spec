@@ -440,7 +440,13 @@ In those cases, EOM prefers **deliberate, time-boxed convergence**:
 * short enough to avoid structural drift
 
 This is not a delivery model.\
-It is a **learning intervention**.
+It is a _**learning intervention**._
+
+> _The objective of early convergence is not speed, but reversibility — learning cheaply enough that future sequencing decisions remain optional._
+
+_but_
+
+> **If convergence becomes the default rather than the exception, it is a signal that system-level constraints are forcing learning too late.**
 
 ***
 
