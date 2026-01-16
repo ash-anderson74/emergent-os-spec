@@ -19,6 +19,8 @@ This contradiction was the starting point.
 
 ***
 
+> _In an environment where value emerges through learning, the only credible operating model is one whose application also emerges through learning._
+
 The Emergent Operating Model is called _emergent_ for the same reason that modern product development is.
 
 In complex domains, value cannot be fully specified in advance. It appears gradually, through learning, feedback, and interaction with reality.
