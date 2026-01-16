@@ -78,3 +78,7 @@
 ## Lineage and Intellectual Foundations
 
 * [The Regularities Emergent Operating Model Aligns With](lineage-and-intellectual-foundations/the-regularities-emergent-operating-model-aligns-with.md)
+
+***
+
+* [You Don’t Adopt an Operating Model — You Enter It](you-dont-adopt-an-operating-model-you-enter-it.md)
